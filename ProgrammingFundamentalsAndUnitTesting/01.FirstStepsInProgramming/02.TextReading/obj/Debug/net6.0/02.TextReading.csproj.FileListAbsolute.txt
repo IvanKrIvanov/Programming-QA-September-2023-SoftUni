@@ -1,0 +1,14 @@
+E:\Иван не пипай !\QA Softuni\Programming-QA-September-2023-SoftUni\ProgrammingFundamentalsAndUnitTesting\01.FirstStepsInProgramming\02.TextReading\bin\Debug\net6.0\02.TextReading.exe
+E:\Иван не пипай !\QA Softuni\Programming-QA-September-2023-SoftUni\ProgrammingFundamentalsAndUnitTesting\01.FirstStepsInProgramming\02.TextReading\bin\Debug\net6.0\02.TextReading.deps.json
+E:\Иван не пипай !\QA Softuni\Programming-QA-September-2023-SoftUni\ProgrammingFundamentalsAndUnitTesting\01.FirstStepsInProgramming\02.TextReading\bin\Debug\net6.0\02.TextReading.runtimeconfig.json
+E:\Иван не пипай !\QA Softuni\Programming-QA-September-2023-SoftUni\ProgrammingFundamentalsAndUnitTesting\01.FirstStepsInProgramming\02.TextReading\bin\Debug\net6.0\02.TextReading.dll
+E:\Иван не пипай !\QA Softuni\Programming-QA-September-2023-SoftUni\ProgrammingFundamentalsAndUnitTesting\01.FirstStepsInProgramming\02.TextReading\bin\Debug\net6.0\02.TextReading.pdb
+E:\Иван не пипай !\QA Softuni\Programming-QA-September-2023-SoftUni\ProgrammingFundamentalsAndUnitTesting\01.FirstStepsInProgramming\02.TextReading\obj\Debug\net6.0\02.TextReading.GeneratedMSBuildEditorConfig.editorconfig
+E:\Иван не пипай !\QA Softuni\Programming-QA-September-2023-SoftUni\ProgrammingFundamentalsAndUnitTesting\01.FirstStepsInProgramming\02.TextReading\obj\Debug\net6.0\02.TextReading.AssemblyInfoInputs.cache
+E:\Иван не пипай !\QA Softuni\Programming-QA-September-2023-SoftUni\ProgrammingFundamentalsAndUnitTesting\01.FirstStepsInProgramming\02.TextReading\obj\Debug\net6.0\02.TextReading.AssemblyInfo.cs
+E:\Иван не пипай !\QA Softuni\Programming-QA-September-2023-SoftUni\ProgrammingFundamentalsAndUnitTesting\01.FirstStepsInProgramming\02.TextReading\obj\Debug\net6.0\02.TextReading.csproj.CoreCompileInputs.cache
+E:\Иван не пипай !\QA Softuni\Programming-QA-September-2023-SoftUni\ProgrammingFundamentalsAndUnitTesting\01.FirstStepsInProgramming\02.TextReading\obj\Debug\net6.0\02.TextReading.dll
+E:\Иван не пипай !\QA Softuni\Programming-QA-September-2023-SoftUni\ProgrammingFundamentalsAndUnitTesting\01.FirstStepsInProgramming\02.TextReading\obj\Debug\net6.0\refint\02.TextReading.dll
+E:\Иван не пипай !\QA Softuni\Programming-QA-September-2023-SoftUni\ProgrammingFundamentalsAndUnitTesting\01.FirstStepsInProgramming\02.TextReading\obj\Debug\net6.0\02.TextReading.pdb
+E:\Иван не пипай !\QA Softuni\Programming-QA-September-2023-SoftUni\ProgrammingFundamentalsAndUnitTesting\01.FirstStepsInProgramming\02.TextReading\obj\Debug\net6.0\02.TextReading.genruntimeconfig.cache
+E:\Иван не пипай !\QA Softuni\Programming-QA-September-2023-SoftUni\ProgrammingFundamentalsAndUnitTesting\01.FirstStepsInProgramming\02.TextReading\obj\Debug\net6.0\ref\02.TextReading.dll
