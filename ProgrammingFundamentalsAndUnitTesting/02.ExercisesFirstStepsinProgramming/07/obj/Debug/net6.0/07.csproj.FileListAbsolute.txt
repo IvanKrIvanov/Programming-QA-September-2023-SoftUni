@@ -1,0 +1,14 @@
+E:\Иван не пипай !\QA Softuni\Programming-QA-September-2023-SoftUni\ProgrammingFundamentalsAndUnitTesting\02.ExercisesFirstStepsinProgramming\07\bin\Debug\net6.0\07.exe
+E:\Иван не пипай !\QA Softuni\Programming-QA-September-2023-SoftUni\ProgrammingFundamentalsAndUnitTesting\02.ExercisesFirstStepsinProgramming\07\bin\Debug\net6.0\07.deps.json
+E:\Иван не пипай !\QA Softuni\Programming-QA-September-2023-SoftUni\ProgrammingFundamentalsAndUnitTesting\02.ExercisesFirstStepsinProgramming\07\bin\Debug\net6.0\07.runtimeconfig.json
+E:\Иван не пипай !\QA Softuni\Programming-QA-September-2023-SoftUni\ProgrammingFundamentalsAndUnitTesting\02.ExercisesFirstStepsinProgramming\07\bin\Debug\net6.0\07.dll
+E:\Иван не пипай !\QA Softuni\Programming-QA-September-2023-SoftUni\ProgrammingFundamentalsAndUnitTesting\02.ExercisesFirstStepsinProgramming\07\bin\Debug\net6.0\07.pdb
+E:\Иван не пипай !\QA Softuni\Programming-QA-September-2023-SoftUni\ProgrammingFundamentalsAndUnitTesting\02.ExercisesFirstStepsinProgramming\07\obj\Debug\net6.0\07.GeneratedMSBuildEditorConfig.editorconfig
+E:\Иван не пипай !\QA Softuni\Programming-QA-September-2023-SoftUni\ProgrammingFundamentalsAndUnitTesting\02.ExercisesFirstStepsinProgramming\07\obj\Debug\net6.0\07.AssemblyInfoInputs.cache
+E:\Иван не пипай !\QA Softuni\Programming-QA-September-2023-SoftUni\ProgrammingFundamentalsAndUnitTesting\02.ExercisesFirstStepsinProgramming\07\obj\Debug\net6.0\07.AssemblyInfo.cs
+E:\Иван не пипай !\QA Softuni\Programming-QA-September-2023-SoftUni\ProgrammingFundamentalsAndUnitTesting\02.ExercisesFirstStepsinProgramming\07\obj\Debug\net6.0\07.csproj.CoreCompileInputs.cache
+E:\Иван не пипай !\QA Softuni\Programming-QA-September-2023-SoftUni\ProgrammingFundamentalsAndUnitTesting\02.ExercisesFirstStepsinProgramming\07\obj\Debug\net6.0\07.dll
+E:\Иван не пипай !\QA Softuni\Programming-QA-September-2023-SoftUni\ProgrammingFundamentalsAndUnitTesting\02.ExercisesFirstStepsinProgramming\07\obj\Debug\net6.0\refint\07.dll
+E:\Иван не пипай !\QA Softuni\Programming-QA-September-2023-SoftUni\ProgrammingFundamentalsAndUnitTesting\02.ExercisesFirstStepsinProgramming\07\obj\Debug\net6.0\07.pdb
+E:\Иван не пипай !\QA Softuni\Programming-QA-September-2023-SoftUni\ProgrammingFundamentalsAndUnitTesting\02.ExercisesFirstStepsinProgramming\07\obj\Debug\net6.0\07.genruntimeconfig.cache
+E:\Иван не пипай !\QA Softuni\Programming-QA-September-2023-SoftUni\ProgrammingFundamentalsAndUnitTesting\02.ExercisesFirstStepsinProgramming\07\obj\Debug\net6.0\ref\07.dll
