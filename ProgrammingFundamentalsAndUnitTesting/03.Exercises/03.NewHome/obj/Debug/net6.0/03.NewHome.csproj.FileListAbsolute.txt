@@ -1,0 +1,14 @@
+E:\Иван не пипай !\QA Softuni\Programming-QA-September-2023-SoftUni\ProgrammingFundamentalsAndUnitTesting\03.Exercises\03.NewHome\obj\Debug\net6.0\03.NewHome.GeneratedMSBuildEditorConfig.editorconfig
+E:\Иван не пипай !\QA Softuni\Programming-QA-September-2023-SoftUni\ProgrammingFundamentalsAndUnitTesting\03.Exercises\03.NewHome\obj\Debug\net6.0\03.NewHome.AssemblyInfoInputs.cache
+E:\Иван не пипай !\QA Softuni\Programming-QA-September-2023-SoftUni\ProgrammingFundamentalsAndUnitTesting\03.Exercises\03.NewHome\obj\Debug\net6.0\03.NewHome.AssemblyInfo.cs
+E:\Иван не пипай !\QA Softuni\Programming-QA-September-2023-SoftUni\ProgrammingFundamentalsAndUnitTesting\03.Exercises\03.NewHome\obj\Debug\net6.0\03.NewHome.csproj.CoreCompileInputs.cache
+E:\Иван не пипай !\QA Softuni\Programming-QA-September-2023-SoftUni\ProgrammingFundamentalsAndUnitTesting\03.Exercises\03.NewHome\bin\Debug\net6.0\03.NewHome.exe
+E:\Иван не пипай !\QA Softuni\Programming-QA-September-2023-SoftUni\ProgrammingFundamentalsAndUnitTesting\03.Exercises\03.NewHome\bin\Debug\net6.0\03.NewHome.deps.json
+E:\Иван не пипай !\QA Softuni\Programming-QA-September-2023-SoftUni\ProgrammingFundamentalsAndUnitTesting\03.Exercises\03.NewHome\bin\Debug\net6.0\03.NewHome.runtimeconfig.json
+E:\Иван не пипай !\QA Softuni\Programming-QA-September-2023-SoftUni\ProgrammingFundamentalsAndUnitTesting\03.Exercises\03.NewHome\bin\Debug\net6.0\03.NewHome.dll
+E:\Иван не пипай !\QA Softuni\Programming-QA-September-2023-SoftUni\ProgrammingFundamentalsAndUnitTesting\03.Exercises\03.NewHome\bin\Debug\net6.0\03.NewHome.pdb
+E:\Иван не пипай !\QA Softuni\Programming-QA-September-2023-SoftUni\ProgrammingFundamentalsAndUnitTesting\03.Exercises\03.NewHome\obj\Debug\net6.0\03.NewHome.dll
+E:\Иван не пипай !\QA Softuni\Programming-QA-September-2023-SoftUni\ProgrammingFundamentalsAndUnitTesting\03.Exercises\03.NewHome\obj\Debug\net6.0\refint\03.NewHome.dll
+E:\Иван не пипай !\QA Softuni\Programming-QA-September-2023-SoftUni\ProgrammingFundamentalsAndUnitTesting\03.Exercises\03.NewHome\obj\Debug\net6.0\03.NewHome.pdb
+E:\Иван не пипай !\QA Softuni\Programming-QA-September-2023-SoftUni\ProgrammingFundamentalsAndUnitTesting\03.Exercises\03.NewHome\obj\Debug\net6.0\03.NewHome.genruntimeconfig.cache
+E:\Иван не пипай !\QA Softuni\Programming-QA-September-2023-SoftUni\ProgrammingFundamentalsAndUnitTesting\03.Exercises\03.NewHome\obj\Debug\net6.0\ref\03.NewHome.dll

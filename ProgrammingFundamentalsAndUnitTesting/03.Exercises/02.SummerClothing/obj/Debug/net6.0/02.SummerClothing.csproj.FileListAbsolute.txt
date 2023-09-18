@@ -1,0 +1,14 @@
+E:\Иван не пипай !\QA Softuni\Programming-QA-September-2023-SoftUni\ProgrammingFundamentalsAndUnitTesting\03.Exercises\02.SummerClothing\bin\Debug\net6.0\02.SummerClothing.exe
+E:\Иван не пипай !\QA Softuni\Programming-QA-September-2023-SoftUni\ProgrammingFundamentalsAndUnitTesting\03.Exercises\02.SummerClothing\bin\Debug\net6.0\02.SummerClothing.deps.json
+E:\Иван не пипай !\QA Softuni\Programming-QA-September-2023-SoftUni\ProgrammingFundamentalsAndUnitTesting\03.Exercises\02.SummerClothing\bin\Debug\net6.0\02.SummerClothing.runtimeconfig.json
+E:\Иван не пипай !\QA Softuni\Programming-QA-September-2023-SoftUni\ProgrammingFundamentalsAndUnitTesting\03.Exercises\02.SummerClothing\bin\Debug\net6.0\02.SummerClothing.dll
+E:\Иван не пипай !\QA Softuni\Programming-QA-September-2023-SoftUni\ProgrammingFundamentalsAndUnitTesting\03.Exercises\02.SummerClothing\bin\Debug\net6.0\02.SummerClothing.pdb
+E:\Иван не пипай !\QA Softuni\Programming-QA-September-2023-SoftUni\ProgrammingFundamentalsAndUnitTesting\03.Exercises\02.SummerClothing\obj\Debug\net6.0\02.SummerClothing.GeneratedMSBuildEditorConfig.editorconfig
+E:\Иван не пипай !\QA Softuni\Programming-QA-September-2023-SoftUni\ProgrammingFundamentalsAndUnitTesting\03.Exercises\02.SummerClothing\obj\Debug\net6.0\02.SummerClothing.AssemblyInfoInputs.cache
+E:\Иван не пипай !\QA Softuni\Programming-QA-September-2023-SoftUni\ProgrammingFundamentalsAndUnitTesting\03.Exercises\02.SummerClothing\obj\Debug\net6.0\02.SummerClothing.AssemblyInfo.cs
+E:\Иван не пипай !\QA Softuni\Programming-QA-September-2023-SoftUni\ProgrammingFundamentalsAndUnitTesting\03.Exercises\02.SummerClothing\obj\Debug\net6.0\02.SummerClothing.csproj.CoreCompileInputs.cache
+E:\Иван не пипай !\QA Softuni\Programming-QA-September-2023-SoftUni\ProgrammingFundamentalsAndUnitTesting\03.Exercises\02.SummerClothing\obj\Debug\net6.0\02.SummerClothing.dll
+E:\Иван не пипай !\QA Softuni\Programming-QA-September-2023-SoftUni\ProgrammingFundamentalsAndUnitTesting\03.Exercises\02.SummerClothing\obj\Debug\net6.0\refint\02.SummerClothing.dll
+E:\Иван не пипай !\QA Softuni\Programming-QA-September-2023-SoftUni\ProgrammingFundamentalsAndUnitTesting\03.Exercises\02.SummerClothing\obj\Debug\net6.0\02.SummerClothing.pdb
+E:\Иван не пипай !\QA Softuni\Programming-QA-September-2023-SoftUni\ProgrammingFundamentalsAndUnitTesting\03.Exercises\02.SummerClothing\obj\Debug\net6.0\02.SummerClothing.genruntimeconfig.cache
+E:\Иван не пипай !\QA Softuni\Programming-QA-September-2023-SoftUni\ProgrammingFundamentalsAndUnitTesting\03.Exercises\02.SummerClothing\obj\Debug\net6.0\ref\02.SummerClothing.dll

@@ -1,0 +1,14 @@
+E:\Иван не пипай !\QA Softuni\Programming-QA-September-2023-SoftUni\ProgrammingFundamentalsAndUnitTesting\03.Exercises\05.Journey\bin\Debug\net6.0\05.Journey.exe
+E:\Иван не пипай !\QA Softuni\Programming-QA-September-2023-SoftUni\ProgrammingFundamentalsAndUnitTesting\03.Exercises\05.Journey\bin\Debug\net6.0\05.Journey.deps.json
+E:\Иван не пипай !\QA Softuni\Programming-QA-September-2023-SoftUni\ProgrammingFundamentalsAndUnitTesting\03.Exercises\05.Journey\bin\Debug\net6.0\05.Journey.runtimeconfig.json
+E:\Иван не пипай !\QA Softuni\Programming-QA-September-2023-SoftUni\ProgrammingFundamentalsAndUnitTesting\03.Exercises\05.Journey\bin\Debug\net6.0\05.Journey.dll
+E:\Иван не пипай !\QA Softuni\Programming-QA-September-2023-SoftUni\ProgrammingFundamentalsAndUnitTesting\03.Exercises\05.Journey\bin\Debug\net6.0\05.Journey.pdb
+E:\Иван не пипай !\QA Softuni\Programming-QA-September-2023-SoftUni\ProgrammingFundamentalsAndUnitTesting\03.Exercises\05.Journey\obj\Debug\net6.0\05.Journey.GeneratedMSBuildEditorConfig.editorconfig
+E:\Иван не пипай !\QA Softuni\Programming-QA-September-2023-SoftUni\ProgrammingFundamentalsAndUnitTesting\03.Exercises\05.Journey\obj\Debug\net6.0\05.Journey.AssemblyInfoInputs.cache
+E:\Иван не пипай !\QA Softuni\Programming-QA-September-2023-SoftUni\ProgrammingFundamentalsAndUnitTesting\03.Exercises\05.Journey\obj\Debug\net6.0\05.Journey.AssemblyInfo.cs
+E:\Иван не пипай !\QA Softuni\Programming-QA-September-2023-SoftUni\ProgrammingFundamentalsAndUnitTesting\03.Exercises\05.Journey\obj\Debug\net6.0\05.Journey.csproj.CoreCompileInputs.cache
+E:\Иван не пипай !\QA Softuni\Programming-QA-September-2023-SoftUni\ProgrammingFundamentalsAndUnitTesting\03.Exercises\05.Journey\obj\Debug\net6.0\05.Journey.dll
+E:\Иван не пипай !\QA Softuni\Programming-QA-September-2023-SoftUni\ProgrammingFundamentalsAndUnitTesting\03.Exercises\05.Journey\obj\Debug\net6.0\refint\05.Journey.dll
+E:\Иван не пипай !\QA Softuni\Programming-QA-September-2023-SoftUni\ProgrammingFundamentalsAndUnitTesting\03.Exercises\05.Journey\obj\Debug\net6.0\05.Journey.pdb
+E:\Иван не пипай !\QA Softuni\Programming-QA-September-2023-SoftUni\ProgrammingFundamentalsAndUnitTesting\03.Exercises\05.Journey\obj\Debug\net6.0\05.Journey.genruntimeconfig.cache
+E:\Иван не пипай !\QA Softuni\Programming-QA-September-2023-SoftUni\ProgrammingFundamentalsAndUnitTesting\03.Exercises\05.Journey\obj\Debug\net6.0\ref\05.Journey.dll
