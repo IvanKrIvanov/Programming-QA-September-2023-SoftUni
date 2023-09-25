@@ -1,0 +1,14 @@
+C:\Users\user\Desktop\Ivan\Programming-QA-September-2023-SoftUni\ProgrammingFundamentalsAndUnitTesting\09.SimpleConditionalStatements\03.OneToTenWords\bin\Debug\net6.0\03.OneToTenWords.exe
+C:\Users\user\Desktop\Ivan\Programming-QA-September-2023-SoftUni\ProgrammingFundamentalsAndUnitTesting\09.SimpleConditionalStatements\03.OneToTenWords\bin\Debug\net6.0\03.OneToTenWords.deps.json
+C:\Users\user\Desktop\Ivan\Programming-QA-September-2023-SoftUni\ProgrammingFundamentalsAndUnitTesting\09.SimpleConditionalStatements\03.OneToTenWords\bin\Debug\net6.0\03.OneToTenWords.runtimeconfig.json
+C:\Users\user\Desktop\Ivan\Programming-QA-September-2023-SoftUni\ProgrammingFundamentalsAndUnitTesting\09.SimpleConditionalStatements\03.OneToTenWords\bin\Debug\net6.0\03.OneToTenWords.dll
+C:\Users\user\Desktop\Ivan\Programming-QA-September-2023-SoftUni\ProgrammingFundamentalsAndUnitTesting\09.SimpleConditionalStatements\03.OneToTenWords\bin\Debug\net6.0\03.OneToTenWords.pdb
+C:\Users\user\Desktop\Ivan\Programming-QA-September-2023-SoftUni\ProgrammingFundamentalsAndUnitTesting\09.SimpleConditionalStatements\03.OneToTenWords\obj\Debug\net6.0\03.OneToTenWords.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Ivan\Programming-QA-September-2023-SoftUni\ProgrammingFundamentalsAndUnitTesting\09.SimpleConditionalStatements\03.OneToTenWords\obj\Debug\net6.0\03.OneToTenWords.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Ivan\Programming-QA-September-2023-SoftUni\ProgrammingFundamentalsAndUnitTesting\09.SimpleConditionalStatements\03.OneToTenWords\obj\Debug\net6.0\03.OneToTenWords.AssemblyInfo.cs
+C:\Users\user\Desktop\Ivan\Programming-QA-September-2023-SoftUni\ProgrammingFundamentalsAndUnitTesting\09.SimpleConditionalStatements\03.OneToTenWords\obj\Debug\net6.0\03.OneToTenWords.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Ivan\Programming-QA-September-2023-SoftUni\ProgrammingFundamentalsAndUnitTesting\09.SimpleConditionalStatements\03.OneToTenWords\obj\Debug\net6.0\03.OneToTenWords.dll
+C:\Users\user\Desktop\Ivan\Programming-QA-September-2023-SoftUni\ProgrammingFundamentalsAndUnitTesting\09.SimpleConditionalStatements\03.OneToTenWords\obj\Debug\net6.0\refint\03.OneToTenWords.dll
+C:\Users\user\Desktop\Ivan\Programming-QA-September-2023-SoftUni\ProgrammingFundamentalsAndUnitTesting\09.SimpleConditionalStatements\03.OneToTenWords\obj\Debug\net6.0\03.OneToTenWords.pdb
+C:\Users\user\Desktop\Ivan\Programming-QA-September-2023-SoftUni\ProgrammingFundamentalsAndUnitTesting\09.SimpleConditionalStatements\03.OneToTenWords\obj\Debug\net6.0\03.OneToTenWords.genruntimeconfig.cache
+C:\Users\user\Desktop\Ivan\Programming-QA-September-2023-SoftUni\ProgrammingFundamentalsAndUnitTesting\09.SimpleConditionalStatements\03.OneToTenWords\obj\Debug\net6.0\ref\03.OneToTenWords.dll

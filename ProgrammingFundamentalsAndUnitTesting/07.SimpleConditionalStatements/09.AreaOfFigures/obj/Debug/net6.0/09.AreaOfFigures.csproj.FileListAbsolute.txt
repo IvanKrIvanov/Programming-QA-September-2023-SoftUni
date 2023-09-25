@@ -1,0 +1,14 @@
+C:\Users\user\Desktop\Ivan\Programming-QA-September-2023-SoftUni\ProgrammingFundamentalsAndUnitTesting\09.SimpleConditionalStatements\09.AreaOfFigures\bin\Debug\net6.0\09.AreaOfFigures.exe
+C:\Users\user\Desktop\Ivan\Programming-QA-September-2023-SoftUni\ProgrammingFundamentalsAndUnitTesting\09.SimpleConditionalStatements\09.AreaOfFigures\bin\Debug\net6.0\09.AreaOfFigures.deps.json
+C:\Users\user\Desktop\Ivan\Programming-QA-September-2023-SoftUni\ProgrammingFundamentalsAndUnitTesting\09.SimpleConditionalStatements\09.AreaOfFigures\bin\Debug\net6.0\09.AreaOfFigures.runtimeconfig.json
+C:\Users\user\Desktop\Ivan\Programming-QA-September-2023-SoftUni\ProgrammingFundamentalsAndUnitTesting\09.SimpleConditionalStatements\09.AreaOfFigures\bin\Debug\net6.0\09.AreaOfFigures.dll
+C:\Users\user\Desktop\Ivan\Programming-QA-September-2023-SoftUni\ProgrammingFundamentalsAndUnitTesting\09.SimpleConditionalStatements\09.AreaOfFigures\bin\Debug\net6.0\09.AreaOfFigures.pdb
+C:\Users\user\Desktop\Ivan\Programming-QA-September-2023-SoftUni\ProgrammingFundamentalsAndUnitTesting\09.SimpleConditionalStatements\09.AreaOfFigures\obj\Debug\net6.0\09.AreaOfFigures.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Ivan\Programming-QA-September-2023-SoftUni\ProgrammingFundamentalsAndUnitTesting\09.SimpleConditionalStatements\09.AreaOfFigures\obj\Debug\net6.0\09.AreaOfFigures.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Ivan\Programming-QA-September-2023-SoftUni\ProgrammingFundamentalsAndUnitTesting\09.SimpleConditionalStatements\09.AreaOfFigures\obj\Debug\net6.0\09.AreaOfFigures.AssemblyInfo.cs
+C:\Users\user\Desktop\Ivan\Programming-QA-September-2023-SoftUni\ProgrammingFundamentalsAndUnitTesting\09.SimpleConditionalStatements\09.AreaOfFigures\obj\Debug\net6.0\09.AreaOfFigures.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Ivan\Programming-QA-September-2023-SoftUni\ProgrammingFundamentalsAndUnitTesting\09.SimpleConditionalStatements\09.AreaOfFigures\obj\Debug\net6.0\09.AreaOfFigures.dll
+C:\Users\user\Desktop\Ivan\Programming-QA-September-2023-SoftUni\ProgrammingFundamentalsAndUnitTesting\09.SimpleConditionalStatements\09.AreaOfFigures\obj\Debug\net6.0\refint\09.AreaOfFigures.dll
+C:\Users\user\Desktop\Ivan\Programming-QA-September-2023-SoftUni\ProgrammingFundamentalsAndUnitTesting\09.SimpleConditionalStatements\09.AreaOfFigures\obj\Debug\net6.0\09.AreaOfFigures.pdb
+C:\Users\user\Desktop\Ivan\Programming-QA-September-2023-SoftUni\ProgrammingFundamentalsAndUnitTesting\09.SimpleConditionalStatements\09.AreaOfFigures\obj\Debug\net6.0\09.AreaOfFigures.genruntimeconfig.cache
+C:\Users\user\Desktop\Ivan\Programming-QA-September-2023-SoftUni\ProgrammingFundamentalsAndUnitTesting\09.SimpleConditionalStatements\09.AreaOfFigures\obj\Debug\net6.0\ref\09.AreaOfFigures.dll
