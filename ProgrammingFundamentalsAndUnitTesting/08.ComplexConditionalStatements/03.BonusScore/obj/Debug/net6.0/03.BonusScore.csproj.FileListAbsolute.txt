@@ -1,0 +1,14 @@
+D:\Иван\Project from GitHub\Programming-QA-September-2023-SoftUni\ProgrammingFundamentalsAndUnitTesting\08.ComplexConditionalStatements\03.BonusScore\bin\Debug\net6.0\03.BonusScore.exe
+D:\Иван\Project from GitHub\Programming-QA-September-2023-SoftUni\ProgrammingFundamentalsAndUnitTesting\08.ComplexConditionalStatements\03.BonusScore\bin\Debug\net6.0\03.BonusScore.deps.json
+D:\Иван\Project from GitHub\Programming-QA-September-2023-SoftUni\ProgrammingFundamentalsAndUnitTesting\08.ComplexConditionalStatements\03.BonusScore\bin\Debug\net6.0\03.BonusScore.runtimeconfig.json
+D:\Иван\Project from GitHub\Programming-QA-September-2023-SoftUni\ProgrammingFundamentalsAndUnitTesting\08.ComplexConditionalStatements\03.BonusScore\bin\Debug\net6.0\03.BonusScore.dll
+D:\Иван\Project from GitHub\Programming-QA-September-2023-SoftUni\ProgrammingFundamentalsAndUnitTesting\08.ComplexConditionalStatements\03.BonusScore\bin\Debug\net6.0\03.BonusScore.pdb
+D:\Иван\Project from GitHub\Programming-QA-September-2023-SoftUni\ProgrammingFundamentalsAndUnitTesting\08.ComplexConditionalStatements\03.BonusScore\obj\Debug\net6.0\03.BonusScore.GeneratedMSBuildEditorConfig.editorconfig
+D:\Иван\Project from GitHub\Programming-QA-September-2023-SoftUni\ProgrammingFundamentalsAndUnitTesting\08.ComplexConditionalStatements\03.BonusScore\obj\Debug\net6.0\03.BonusScore.AssemblyInfoInputs.cache
+D:\Иван\Project from GitHub\Programming-QA-September-2023-SoftUni\ProgrammingFundamentalsAndUnitTesting\08.ComplexConditionalStatements\03.BonusScore\obj\Debug\net6.0\03.BonusScore.AssemblyInfo.cs
+D:\Иван\Project from GitHub\Programming-QA-September-2023-SoftUni\ProgrammingFundamentalsAndUnitTesting\08.ComplexConditionalStatements\03.BonusScore\obj\Debug\net6.0\03.BonusScore.csproj.CoreCompileInputs.cache
+D:\Иван\Project from GitHub\Programming-QA-September-2023-SoftUni\ProgrammingFundamentalsAndUnitTesting\08.ComplexConditionalStatements\03.BonusScore\obj\Debug\net6.0\03.BonusScore.dll
+D:\Иван\Project from GitHub\Programming-QA-September-2023-SoftUni\ProgrammingFundamentalsAndUnitTesting\08.ComplexConditionalStatements\03.BonusScore\obj\Debug\net6.0\refint\03.BonusScore.dll
+D:\Иван\Project from GitHub\Programming-QA-September-2023-SoftUni\ProgrammingFundamentalsAndUnitTesting\08.ComplexConditionalStatements\03.BonusScore\obj\Debug\net6.0\03.BonusScore.pdb
+D:\Иван\Project from GitHub\Programming-QA-September-2023-SoftUni\ProgrammingFundamentalsAndUnitTesting\08.ComplexConditionalStatements\03.BonusScore\obj\Debug\net6.0\03.BonusScore.genruntimeconfig.cache
+D:\Иван\Project from GitHub\Programming-QA-September-2023-SoftUni\ProgrammingFundamentalsAndUnitTesting\08.ComplexConditionalStatements\03.BonusScore\obj\Debug\net6.0\ref\03.BonusScore.dll
