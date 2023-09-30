@@ -1,0 +1,14 @@
+D:\Иван\Project from GitHub\Programming-QA-September-2023-SoftUni\ProgrammingFundamentalsAndUnitTesting\09.Exercise\06.ProductOfThreeNumbers\bin\Debug\net6.0\06.ProductOfThreeNumbers.exe
+D:\Иван\Project from GitHub\Programming-QA-September-2023-SoftUni\ProgrammingFundamentalsAndUnitTesting\09.Exercise\06.ProductOfThreeNumbers\bin\Debug\net6.0\06.ProductOfThreeNumbers.deps.json
+D:\Иван\Project from GitHub\Programming-QA-September-2023-SoftUni\ProgrammingFundamentalsAndUnitTesting\09.Exercise\06.ProductOfThreeNumbers\bin\Debug\net6.0\06.ProductOfThreeNumbers.runtimeconfig.json
+D:\Иван\Project from GitHub\Programming-QA-September-2023-SoftUni\ProgrammingFundamentalsAndUnitTesting\09.Exercise\06.ProductOfThreeNumbers\bin\Debug\net6.0\06.ProductOfThreeNumbers.dll
+D:\Иван\Project from GitHub\Programming-QA-September-2023-SoftUni\ProgrammingFundamentalsAndUnitTesting\09.Exercise\06.ProductOfThreeNumbers\bin\Debug\net6.0\06.ProductOfThreeNumbers.pdb
+D:\Иван\Project from GitHub\Programming-QA-September-2023-SoftUni\ProgrammingFundamentalsAndUnitTesting\09.Exercise\06.ProductOfThreeNumbers\obj\Debug\net6.0\06.ProductOfThreeNumbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\Иван\Project from GitHub\Programming-QA-September-2023-SoftUni\ProgrammingFundamentalsAndUnitTesting\09.Exercise\06.ProductOfThreeNumbers\obj\Debug\net6.0\06.ProductOfThreeNumbers.AssemblyInfoInputs.cache
+D:\Иван\Project from GitHub\Programming-QA-September-2023-SoftUni\ProgrammingFundamentalsAndUnitTesting\09.Exercise\06.ProductOfThreeNumbers\obj\Debug\net6.0\06.ProductOfThreeNumbers.AssemblyInfo.cs
+D:\Иван\Project from GitHub\Programming-QA-September-2023-SoftUni\ProgrammingFundamentalsAndUnitTesting\09.Exercise\06.ProductOfThreeNumbers\obj\Debug\net6.0\06.ProductOfThreeNumbers.csproj.CoreCompileInputs.cache
+D:\Иван\Project from GitHub\Programming-QA-September-2023-SoftUni\ProgrammingFundamentalsAndUnitTesting\09.Exercise\06.ProductOfThreeNumbers\obj\Debug\net6.0\06.ProductOfThreeNumbers.dll
+D:\Иван\Project from GitHub\Programming-QA-September-2023-SoftUni\ProgrammingFundamentalsAndUnitTesting\09.Exercise\06.ProductOfThreeNumbers\obj\Debug\net6.0\refint\06.ProductOfThreeNumbers.dll
+D:\Иван\Project from GitHub\Programming-QA-September-2023-SoftUni\ProgrammingFundamentalsAndUnitTesting\09.Exercise\06.ProductOfThreeNumbers\obj\Debug\net6.0\06.ProductOfThreeNumbers.pdb
+D:\Иван\Project from GitHub\Programming-QA-September-2023-SoftUni\ProgrammingFundamentalsAndUnitTesting\09.Exercise\06.ProductOfThreeNumbers\obj\Debug\net6.0\06.ProductOfThreeNumbers.genruntimeconfig.cache
+D:\Иван\Project from GitHub\Programming-QA-September-2023-SoftUni\ProgrammingFundamentalsAndUnitTesting\09.Exercise\06.ProductOfThreeNumbers\obj\Debug\net6.0\ref\06.ProductOfThreeNumbers.dll

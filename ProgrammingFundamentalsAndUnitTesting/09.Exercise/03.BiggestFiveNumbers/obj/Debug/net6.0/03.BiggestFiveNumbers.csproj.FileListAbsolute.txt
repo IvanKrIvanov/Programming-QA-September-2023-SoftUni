@@ -1,0 +1,14 @@
+D:\Иван\Project from GitHub\Programming-QA-September-2023-SoftUni\ProgrammingFundamentalsAndUnitTesting\09.Exercise\03.BiggestFiveNumbers\bin\Debug\net6.0\03.BiggestFiveNumbers.exe
+D:\Иван\Project from GitHub\Programming-QA-September-2023-SoftUni\ProgrammingFundamentalsAndUnitTesting\09.Exercise\03.BiggestFiveNumbers\bin\Debug\net6.0\03.BiggestFiveNumbers.deps.json
+D:\Иван\Project from GitHub\Programming-QA-September-2023-SoftUni\ProgrammingFundamentalsAndUnitTesting\09.Exercise\03.BiggestFiveNumbers\bin\Debug\net6.0\03.BiggestFiveNumbers.runtimeconfig.json
+D:\Иван\Project from GitHub\Programming-QA-September-2023-SoftUni\ProgrammingFundamentalsAndUnitTesting\09.Exercise\03.BiggestFiveNumbers\bin\Debug\net6.0\03.BiggestFiveNumbers.dll
+D:\Иван\Project from GitHub\Programming-QA-September-2023-SoftUni\ProgrammingFundamentalsAndUnitTesting\09.Exercise\03.BiggestFiveNumbers\bin\Debug\net6.0\03.BiggestFiveNumbers.pdb
+D:\Иван\Project from GitHub\Programming-QA-September-2023-SoftUni\ProgrammingFundamentalsAndUnitTesting\09.Exercise\03.BiggestFiveNumbers\obj\Debug\net6.0\03.BiggestFiveNumbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\Иван\Project from GitHub\Programming-QA-September-2023-SoftUni\ProgrammingFundamentalsAndUnitTesting\09.Exercise\03.BiggestFiveNumbers\obj\Debug\net6.0\03.BiggestFiveNumbers.AssemblyInfoInputs.cache
+D:\Иван\Project from GitHub\Programming-QA-September-2023-SoftUni\ProgrammingFundamentalsAndUnitTesting\09.Exercise\03.BiggestFiveNumbers\obj\Debug\net6.0\03.BiggestFiveNumbers.AssemblyInfo.cs
+D:\Иван\Project from GitHub\Programming-QA-September-2023-SoftUni\ProgrammingFundamentalsAndUnitTesting\09.Exercise\03.BiggestFiveNumbers\obj\Debug\net6.0\03.BiggestFiveNumbers.csproj.CoreCompileInputs.cache
+D:\Иван\Project from GitHub\Programming-QA-September-2023-SoftUni\ProgrammingFundamentalsAndUnitTesting\09.Exercise\03.BiggestFiveNumbers\obj\Debug\net6.0\03.BiggestFiveNumbers.dll
+D:\Иван\Project from GitHub\Programming-QA-September-2023-SoftUni\ProgrammingFundamentalsAndUnitTesting\09.Exercise\03.BiggestFiveNumbers\obj\Debug\net6.0\refint\03.BiggestFiveNumbers.dll
+D:\Иван\Project from GitHub\Programming-QA-September-2023-SoftUni\ProgrammingFundamentalsAndUnitTesting\09.Exercise\03.BiggestFiveNumbers\obj\Debug\net6.0\03.BiggestFiveNumbers.pdb
+D:\Иван\Project from GitHub\Programming-QA-September-2023-SoftUni\ProgrammingFundamentalsAndUnitTesting\09.Exercise\03.BiggestFiveNumbers\obj\Debug\net6.0\03.BiggestFiveNumbers.genruntimeconfig.cache
+D:\Иван\Project from GitHub\Programming-QA-September-2023-SoftUni\ProgrammingFundamentalsAndUnitTesting\09.Exercise\03.BiggestFiveNumbers\obj\Debug\net6.0\ref\03.BiggestFiveNumbers.dll
