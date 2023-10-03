@@ -1,0 +1,14 @@
+D:\Иван\Project from GitHub\Programming-QA-September-2023-SoftUni\ProgrammingFundamentalsAndUnitTesting\10.ForLoop\04.NumbersEndingIn7\bin\Debug\net6.0\04.NumbersEndingIn7.exe
+D:\Иван\Project from GitHub\Programming-QA-September-2023-SoftUni\ProgrammingFundamentalsAndUnitTesting\10.ForLoop\04.NumbersEndingIn7\bin\Debug\net6.0\04.NumbersEndingIn7.deps.json
+D:\Иван\Project from GitHub\Programming-QA-September-2023-SoftUni\ProgrammingFundamentalsAndUnitTesting\10.ForLoop\04.NumbersEndingIn7\bin\Debug\net6.0\04.NumbersEndingIn7.runtimeconfig.json
+D:\Иван\Project from GitHub\Programming-QA-September-2023-SoftUni\ProgrammingFundamentalsAndUnitTesting\10.ForLoop\04.NumbersEndingIn7\bin\Debug\net6.0\04.NumbersEndingIn7.dll
+D:\Иван\Project from GitHub\Programming-QA-September-2023-SoftUni\ProgrammingFundamentalsAndUnitTesting\10.ForLoop\04.NumbersEndingIn7\bin\Debug\net6.0\04.NumbersEndingIn7.pdb
+D:\Иван\Project from GitHub\Programming-QA-September-2023-SoftUni\ProgrammingFundamentalsAndUnitTesting\10.ForLoop\04.NumbersEndingIn7\obj\Debug\net6.0\04.NumbersEndingIn7.GeneratedMSBuildEditorConfig.editorconfig
+D:\Иван\Project from GitHub\Programming-QA-September-2023-SoftUni\ProgrammingFundamentalsAndUnitTesting\10.ForLoop\04.NumbersEndingIn7\obj\Debug\net6.0\04.NumbersEndingIn7.AssemblyInfoInputs.cache
+D:\Иван\Project from GitHub\Programming-QA-September-2023-SoftUni\ProgrammingFundamentalsAndUnitTesting\10.ForLoop\04.NumbersEndingIn7\obj\Debug\net6.0\04.NumbersEndingIn7.AssemblyInfo.cs
+D:\Иван\Project from GitHub\Programming-QA-September-2023-SoftUni\ProgrammingFundamentalsAndUnitTesting\10.ForLoop\04.NumbersEndingIn7\obj\Debug\net6.0\04.NumbersEndingIn7.csproj.CoreCompileInputs.cache
+D:\Иван\Project from GitHub\Programming-QA-September-2023-SoftUni\ProgrammingFundamentalsAndUnitTesting\10.ForLoop\04.NumbersEndingIn7\obj\Debug\net6.0\04.NumbersEndingIn7.dll
+D:\Иван\Project from GitHub\Programming-QA-September-2023-SoftUni\ProgrammingFundamentalsAndUnitTesting\10.ForLoop\04.NumbersEndingIn7\obj\Debug\net6.0\refint\04.NumbersEndingIn7.dll
+D:\Иван\Project from GitHub\Programming-QA-September-2023-SoftUni\ProgrammingFundamentalsAndUnitTesting\10.ForLoop\04.NumbersEndingIn7\obj\Debug\net6.0\04.NumbersEndingIn7.pdb
+D:\Иван\Project from GitHub\Programming-QA-September-2023-SoftUni\ProgrammingFundamentalsAndUnitTesting\10.ForLoop\04.NumbersEndingIn7\obj\Debug\net6.0\04.NumbersEndingIn7.genruntimeconfig.cache
+D:\Иван\Project from GitHub\Programming-QA-September-2023-SoftUni\ProgrammingFundamentalsAndUnitTesting\10.ForLoop\04.NumbersEndingIn7\obj\Debug\net6.0\ref\04.NumbersEndingIn7.dll

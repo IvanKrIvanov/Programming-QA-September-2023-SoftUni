@@ -1,0 +1,14 @@
+D:\Иван\Project from GitHub\Programming-QA-September-2023-SoftUni\ProgrammingFundamentalsAndUnitTesting\10.ForLoop\03.SumNumbers\bin\Debug\net6.0\03.SumNumbers.exe
+D:\Иван\Project from GitHub\Programming-QA-September-2023-SoftUni\ProgrammingFundamentalsAndUnitTesting\10.ForLoop\03.SumNumbers\bin\Debug\net6.0\03.SumNumbers.deps.json
+D:\Иван\Project from GitHub\Programming-QA-September-2023-SoftUni\ProgrammingFundamentalsAndUnitTesting\10.ForLoop\03.SumNumbers\bin\Debug\net6.0\03.SumNumbers.runtimeconfig.json
+D:\Иван\Project from GitHub\Programming-QA-September-2023-SoftUni\ProgrammingFundamentalsAndUnitTesting\10.ForLoop\03.SumNumbers\bin\Debug\net6.0\03.SumNumbers.dll
+D:\Иван\Project from GitHub\Programming-QA-September-2023-SoftUni\ProgrammingFundamentalsAndUnitTesting\10.ForLoop\03.SumNumbers\bin\Debug\net6.0\03.SumNumbers.pdb
+D:\Иван\Project from GitHub\Programming-QA-September-2023-SoftUni\ProgrammingFundamentalsAndUnitTesting\10.ForLoop\03.SumNumbers\obj\Debug\net6.0\03.SumNumbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\Иван\Project from GitHub\Programming-QA-September-2023-SoftUni\ProgrammingFundamentalsAndUnitTesting\10.ForLoop\03.SumNumbers\obj\Debug\net6.0\03.SumNumbers.AssemblyInfoInputs.cache
+D:\Иван\Project from GitHub\Programming-QA-September-2023-SoftUni\ProgrammingFundamentalsAndUnitTesting\10.ForLoop\03.SumNumbers\obj\Debug\net6.0\03.SumNumbers.AssemblyInfo.cs
+D:\Иван\Project from GitHub\Programming-QA-September-2023-SoftUni\ProgrammingFundamentalsAndUnitTesting\10.ForLoop\03.SumNumbers\obj\Debug\net6.0\03.SumNumbers.csproj.CoreCompileInputs.cache
+D:\Иван\Project from GitHub\Programming-QA-September-2023-SoftUni\ProgrammingFundamentalsAndUnitTesting\10.ForLoop\03.SumNumbers\obj\Debug\net6.0\03.SumNumbers.dll
+D:\Иван\Project from GitHub\Programming-QA-September-2023-SoftUni\ProgrammingFundamentalsAndUnitTesting\10.ForLoop\03.SumNumbers\obj\Debug\net6.0\refint\03.SumNumbers.dll
+D:\Иван\Project from GitHub\Programming-QA-September-2023-SoftUni\ProgrammingFundamentalsAndUnitTesting\10.ForLoop\03.SumNumbers\obj\Debug\net6.0\03.SumNumbers.pdb
+D:\Иван\Project from GitHub\Programming-QA-September-2023-SoftUni\ProgrammingFundamentalsAndUnitTesting\10.ForLoop\03.SumNumbers\obj\Debug\net6.0\03.SumNumbers.genruntimeconfig.cache
+D:\Иван\Project from GitHub\Programming-QA-September-2023-SoftUni\ProgrammingFundamentalsAndUnitTesting\10.ForLoop\03.SumNumbers\obj\Debug\net6.0\ref\03.SumNumbers.dll

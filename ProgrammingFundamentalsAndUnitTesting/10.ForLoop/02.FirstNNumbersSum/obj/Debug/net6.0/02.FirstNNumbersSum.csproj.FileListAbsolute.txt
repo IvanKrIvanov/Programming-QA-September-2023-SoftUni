@@ -1,0 +1,14 @@
+D:\Иван\Project from GitHub\Programming-QA-September-2023-SoftUni\ProgrammingFundamentalsAndUnitTesting\10.ForLoop\02.FirstNNumbersSum\bin\Debug\net6.0\02.FirstNNumbersSum.exe
+D:\Иван\Project from GitHub\Programming-QA-September-2023-SoftUni\ProgrammingFundamentalsAndUnitTesting\10.ForLoop\02.FirstNNumbersSum\bin\Debug\net6.0\02.FirstNNumbersSum.deps.json
+D:\Иван\Project from GitHub\Programming-QA-September-2023-SoftUni\ProgrammingFundamentalsAndUnitTesting\10.ForLoop\02.FirstNNumbersSum\bin\Debug\net6.0\02.FirstNNumbersSum.runtimeconfig.json
+D:\Иван\Project from GitHub\Programming-QA-September-2023-SoftUni\ProgrammingFundamentalsAndUnitTesting\10.ForLoop\02.FirstNNumbersSum\bin\Debug\net6.0\02.FirstNNumbersSum.dll
+D:\Иван\Project from GitHub\Programming-QA-September-2023-SoftUni\ProgrammingFundamentalsAndUnitTesting\10.ForLoop\02.FirstNNumbersSum\bin\Debug\net6.0\02.FirstNNumbersSum.pdb
+D:\Иван\Project from GitHub\Programming-QA-September-2023-SoftUni\ProgrammingFundamentalsAndUnitTesting\10.ForLoop\02.FirstNNumbersSum\obj\Debug\net6.0\02.FirstNNumbersSum.GeneratedMSBuildEditorConfig.editorconfig
+D:\Иван\Project from GitHub\Programming-QA-September-2023-SoftUni\ProgrammingFundamentalsAndUnitTesting\10.ForLoop\02.FirstNNumbersSum\obj\Debug\net6.0\02.FirstNNumbersSum.AssemblyInfoInputs.cache
+D:\Иван\Project from GitHub\Programming-QA-September-2023-SoftUni\ProgrammingFundamentalsAndUnitTesting\10.ForLoop\02.FirstNNumbersSum\obj\Debug\net6.0\02.FirstNNumbersSum.AssemblyInfo.cs
+D:\Иван\Project from GitHub\Programming-QA-September-2023-SoftUni\ProgrammingFundamentalsAndUnitTesting\10.ForLoop\02.FirstNNumbersSum\obj\Debug\net6.0\02.FirstNNumbersSum.csproj.CoreCompileInputs.cache
+D:\Иван\Project from GitHub\Programming-QA-September-2023-SoftUni\ProgrammingFundamentalsAndUnitTesting\10.ForLoop\02.FirstNNumbersSum\obj\Debug\net6.0\02.FirstNNumbersSum.dll
+D:\Иван\Project from GitHub\Programming-QA-September-2023-SoftUni\ProgrammingFundamentalsAndUnitTesting\10.ForLoop\02.FirstNNumbersSum\obj\Debug\net6.0\refint\02.FirstNNumbersSum.dll
+D:\Иван\Project from GitHub\Programming-QA-September-2023-SoftUni\ProgrammingFundamentalsAndUnitTesting\10.ForLoop\02.FirstNNumbersSum\obj\Debug\net6.0\02.FirstNNumbersSum.pdb
+D:\Иван\Project from GitHub\Programming-QA-September-2023-SoftUni\ProgrammingFundamentalsAndUnitTesting\10.ForLoop\02.FirstNNumbersSum\obj\Debug\net6.0\02.FirstNNumbersSum.genruntimeconfig.cache
+D:\Иван\Project from GitHub\Programming-QA-September-2023-SoftUni\ProgrammingFundamentalsAndUnitTesting\10.ForLoop\02.FirstNNumbersSum\obj\Debug\net6.0\ref\02.FirstNNumbersSum.dll

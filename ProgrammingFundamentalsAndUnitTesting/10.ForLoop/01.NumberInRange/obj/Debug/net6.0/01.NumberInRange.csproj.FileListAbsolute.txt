@@ -1,0 +1,14 @@
+D:\Иван\Project from GitHub\Programming-QA-September-2023-SoftUni\ProgrammingFundamentalsAndUnitTesting\10.ForLoop\01.NumberInRange\bin\Debug\net6.0\01.NumberInRange.exe
+D:\Иван\Project from GitHub\Programming-QA-September-2023-SoftUni\ProgrammingFundamentalsAndUnitTesting\10.ForLoop\01.NumberInRange\bin\Debug\net6.0\01.NumberInRange.deps.json
+D:\Иван\Project from GitHub\Programming-QA-September-2023-SoftUni\ProgrammingFundamentalsAndUnitTesting\10.ForLoop\01.NumberInRange\bin\Debug\net6.0\01.NumberInRange.runtimeconfig.json
+D:\Иван\Project from GitHub\Programming-QA-September-2023-SoftUni\ProgrammingFundamentalsAndUnitTesting\10.ForLoop\01.NumberInRange\bin\Debug\net6.0\01.NumberInRange.dll
+D:\Иван\Project from GitHub\Programming-QA-September-2023-SoftUni\ProgrammingFundamentalsAndUnitTesting\10.ForLoop\01.NumberInRange\bin\Debug\net6.0\01.NumberInRange.pdb
+D:\Иван\Project from GitHub\Programming-QA-September-2023-SoftUni\ProgrammingFundamentalsAndUnitTesting\10.ForLoop\01.NumberInRange\obj\Debug\net6.0\01.NumberInRange.GeneratedMSBuildEditorConfig.editorconfig
+D:\Иван\Project from GitHub\Programming-QA-September-2023-SoftUni\ProgrammingFundamentalsAndUnitTesting\10.ForLoop\01.NumberInRange\obj\Debug\net6.0\01.NumberInRange.AssemblyInfoInputs.cache
+D:\Иван\Project from GitHub\Programming-QA-September-2023-SoftUni\ProgrammingFundamentalsAndUnitTesting\10.ForLoop\01.NumberInRange\obj\Debug\net6.0\01.NumberInRange.AssemblyInfo.cs
+D:\Иван\Project from GitHub\Programming-QA-September-2023-SoftUni\ProgrammingFundamentalsAndUnitTesting\10.ForLoop\01.NumberInRange\obj\Debug\net6.0\01.NumberInRange.csproj.CoreCompileInputs.cache
+D:\Иван\Project from GitHub\Programming-QA-September-2023-SoftUni\ProgrammingFundamentalsAndUnitTesting\10.ForLoop\01.NumberInRange\obj\Debug\net6.0\01.NumberInRange.dll
+D:\Иван\Project from GitHub\Programming-QA-September-2023-SoftUni\ProgrammingFundamentalsAndUnitTesting\10.ForLoop\01.NumberInRange\obj\Debug\net6.0\refint\01.NumberInRange.dll
+D:\Иван\Project from GitHub\Programming-QA-September-2023-SoftUni\ProgrammingFundamentalsAndUnitTesting\10.ForLoop\01.NumberInRange\obj\Debug\net6.0\01.NumberInRange.pdb
+D:\Иван\Project from GitHub\Programming-QA-September-2023-SoftUni\ProgrammingFundamentalsAndUnitTesting\10.ForLoop\01.NumberInRange\obj\Debug\net6.0\01.NumberInRange.genruntimeconfig.cache
+D:\Иван\Project from GitHub\Programming-QA-September-2023-SoftUni\ProgrammingFundamentalsAndUnitTesting\10.ForLoop\01.NumberInRange\obj\Debug\net6.0\ref\01.NumberInRange.dll
