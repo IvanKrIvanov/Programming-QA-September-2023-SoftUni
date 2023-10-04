@@ -1,0 +1,14 @@
+D:\Иван\Project from GitHub\Programming-QA-September-2023-SoftUni\ProgrammingFundamentalsAndUnitTesting\11.WhileLoop\06.NumberProcessor\bin\Debug\net6.0\06.NumberProcessor.exe
+D:\Иван\Project from GitHub\Programming-QA-September-2023-SoftUni\ProgrammingFundamentalsAndUnitTesting\11.WhileLoop\06.NumberProcessor\bin\Debug\net6.0\06.NumberProcessor.deps.json
+D:\Иван\Project from GitHub\Programming-QA-September-2023-SoftUni\ProgrammingFundamentalsAndUnitTesting\11.WhileLoop\06.NumberProcessor\bin\Debug\net6.0\06.NumberProcessor.runtimeconfig.json
+D:\Иван\Project from GitHub\Programming-QA-September-2023-SoftUni\ProgrammingFundamentalsAndUnitTesting\11.WhileLoop\06.NumberProcessor\bin\Debug\net6.0\06.NumberProcessor.dll
+D:\Иван\Project from GitHub\Programming-QA-September-2023-SoftUni\ProgrammingFundamentalsAndUnitTesting\11.WhileLoop\06.NumberProcessor\bin\Debug\net6.0\06.NumberProcessor.pdb
+D:\Иван\Project from GitHub\Programming-QA-September-2023-SoftUni\ProgrammingFundamentalsAndUnitTesting\11.WhileLoop\06.NumberProcessor\obj\Debug\net6.0\06.NumberProcessor.GeneratedMSBuildEditorConfig.editorconfig
+D:\Иван\Project from GitHub\Programming-QA-September-2023-SoftUni\ProgrammingFundamentalsAndUnitTesting\11.WhileLoop\06.NumberProcessor\obj\Debug\net6.0\06.NumberProcessor.AssemblyInfoInputs.cache
+D:\Иван\Project from GitHub\Programming-QA-September-2023-SoftUni\ProgrammingFundamentalsAndUnitTesting\11.WhileLoop\06.NumberProcessor\obj\Debug\net6.0\06.NumberProcessor.AssemblyInfo.cs
+D:\Иван\Project from GitHub\Programming-QA-September-2023-SoftUni\ProgrammingFundamentalsAndUnitTesting\11.WhileLoop\06.NumberProcessor\obj\Debug\net6.0\06.NumberProcessor.csproj.CoreCompileInputs.cache
+D:\Иван\Project from GitHub\Programming-QA-September-2023-SoftUni\ProgrammingFundamentalsAndUnitTesting\11.WhileLoop\06.NumberProcessor\obj\Debug\net6.0\06.NumberProcessor.dll
+D:\Иван\Project from GitHub\Programming-QA-September-2023-SoftUni\ProgrammingFundamentalsAndUnitTesting\11.WhileLoop\06.NumberProcessor\obj\Debug\net6.0\refint\06.NumberProcessor.dll
+D:\Иван\Project from GitHub\Programming-QA-September-2023-SoftUni\ProgrammingFundamentalsAndUnitTesting\11.WhileLoop\06.NumberProcessor\obj\Debug\net6.0\06.NumberProcessor.pdb
+D:\Иван\Project from GitHub\Programming-QA-September-2023-SoftUni\ProgrammingFundamentalsAndUnitTesting\11.WhileLoop\06.NumberProcessor\obj\Debug\net6.0\06.NumberProcessor.genruntimeconfig.cache
+D:\Иван\Project from GitHub\Programming-QA-September-2023-SoftUni\ProgrammingFundamentalsAndUnitTesting\11.WhileLoop\06.NumberProcessor\obj\Debug\net6.0\ref\06.NumberProcessor.dll
