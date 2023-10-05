@@ -1,0 +1,14 @@
+D:\Иван\Project from GitHub\Programming-QA-September-2023-SoftUni\ProgrammingFundamentalsAndUnitTesting\12.ExerciseLoops\08.AccountBalance\bin\Debug\net6.0\08.AccountBalance.exe
+D:\Иван\Project from GitHub\Programming-QA-September-2023-SoftUni\ProgrammingFundamentalsAndUnitTesting\12.ExerciseLoops\08.AccountBalance\bin\Debug\net6.0\08.AccountBalance.deps.json
+D:\Иван\Project from GitHub\Programming-QA-September-2023-SoftUni\ProgrammingFundamentalsAndUnitTesting\12.ExerciseLoops\08.AccountBalance\bin\Debug\net6.0\08.AccountBalance.runtimeconfig.json
+D:\Иван\Project from GitHub\Programming-QA-September-2023-SoftUni\ProgrammingFundamentalsAndUnitTesting\12.ExerciseLoops\08.AccountBalance\bin\Debug\net6.0\08.AccountBalance.dll
+D:\Иван\Project from GitHub\Programming-QA-September-2023-SoftUni\ProgrammingFundamentalsAndUnitTesting\12.ExerciseLoops\08.AccountBalance\bin\Debug\net6.0\08.AccountBalance.pdb
+D:\Иван\Project from GitHub\Programming-QA-September-2023-SoftUni\ProgrammingFundamentalsAndUnitTesting\12.ExerciseLoops\08.AccountBalance\obj\Debug\net6.0\08.AccountBalance.GeneratedMSBuildEditorConfig.editorconfig
+D:\Иван\Project from GitHub\Programming-QA-September-2023-SoftUni\ProgrammingFundamentalsAndUnitTesting\12.ExerciseLoops\08.AccountBalance\obj\Debug\net6.0\08.AccountBalance.AssemblyInfoInputs.cache
+D:\Иван\Project from GitHub\Programming-QA-September-2023-SoftUni\ProgrammingFundamentalsAndUnitTesting\12.ExerciseLoops\08.AccountBalance\obj\Debug\net6.0\08.AccountBalance.AssemblyInfo.cs
+D:\Иван\Project from GitHub\Programming-QA-September-2023-SoftUni\ProgrammingFundamentalsAndUnitTesting\12.ExerciseLoops\08.AccountBalance\obj\Debug\net6.0\08.AccountBalance.csproj.CoreCompileInputs.cache
+D:\Иван\Project from GitHub\Programming-QA-September-2023-SoftUni\ProgrammingFundamentalsAndUnitTesting\12.ExerciseLoops\08.AccountBalance\obj\Debug\net6.0\08.AccountBalance.dll
+D:\Иван\Project from GitHub\Programming-QA-September-2023-SoftUni\ProgrammingFundamentalsAndUnitTesting\12.ExerciseLoops\08.AccountBalance\obj\Debug\net6.0\refint\08.AccountBalance.dll
+D:\Иван\Project from GitHub\Programming-QA-September-2023-SoftUni\ProgrammingFundamentalsAndUnitTesting\12.ExerciseLoops\08.AccountBalance\obj\Debug\net6.0\08.AccountBalance.pdb
+D:\Иван\Project from GitHub\Programming-QA-September-2023-SoftUni\ProgrammingFundamentalsAndUnitTesting\12.ExerciseLoops\08.AccountBalance\obj\Debug\net6.0\08.AccountBalance.genruntimeconfig.cache
+D:\Иван\Project from GitHub\Programming-QA-September-2023-SoftUni\ProgrammingFundamentalsAndUnitTesting\12.ExerciseLoops\08.AccountBalance\obj\Debug\net6.0\ref\08.AccountBalance.dll
