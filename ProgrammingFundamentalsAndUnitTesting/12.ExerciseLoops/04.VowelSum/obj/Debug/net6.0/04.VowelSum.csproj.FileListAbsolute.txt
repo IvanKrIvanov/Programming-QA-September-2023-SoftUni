@@ -1,0 +1,14 @@
+D:\Иван\Project from GitHub\Programming-QA-September-2023-SoftUni\ProgrammingFundamentalsAndUnitTesting\12.ExerciseLoops\04.VowelSum\bin\Debug\net6.0\04.VowelSum.exe
+D:\Иван\Project from GitHub\Programming-QA-September-2023-SoftUni\ProgrammingFundamentalsAndUnitTesting\12.ExerciseLoops\04.VowelSum\bin\Debug\net6.0\04.VowelSum.deps.json
+D:\Иван\Project from GitHub\Programming-QA-September-2023-SoftUni\ProgrammingFundamentalsAndUnitTesting\12.ExerciseLoops\04.VowelSum\bin\Debug\net6.0\04.VowelSum.runtimeconfig.json
+D:\Иван\Project from GitHub\Programming-QA-September-2023-SoftUni\ProgrammingFundamentalsAndUnitTesting\12.ExerciseLoops\04.VowelSum\bin\Debug\net6.0\04.VowelSum.dll
+D:\Иван\Project from GitHub\Programming-QA-September-2023-SoftUni\ProgrammingFundamentalsAndUnitTesting\12.ExerciseLoops\04.VowelSum\bin\Debug\net6.0\04.VowelSum.pdb
+D:\Иван\Project from GitHub\Programming-QA-September-2023-SoftUni\ProgrammingFundamentalsAndUnitTesting\12.ExerciseLoops\04.VowelSum\obj\Debug\net6.0\04.VowelSum.GeneratedMSBuildEditorConfig.editorconfig
+D:\Иван\Project from GitHub\Programming-QA-September-2023-SoftUni\ProgrammingFundamentalsAndUnitTesting\12.ExerciseLoops\04.VowelSum\obj\Debug\net6.0\04.VowelSum.AssemblyInfoInputs.cache
+D:\Иван\Project from GitHub\Programming-QA-September-2023-SoftUni\ProgrammingFundamentalsAndUnitTesting\12.ExerciseLoops\04.VowelSum\obj\Debug\net6.0\04.VowelSum.AssemblyInfo.cs
+D:\Иван\Project from GitHub\Programming-QA-September-2023-SoftUni\ProgrammingFundamentalsAndUnitTesting\12.ExerciseLoops\04.VowelSum\obj\Debug\net6.0\04.VowelSum.csproj.CoreCompileInputs.cache
+D:\Иван\Project from GitHub\Programming-QA-September-2023-SoftUni\ProgrammingFundamentalsAndUnitTesting\12.ExerciseLoops\04.VowelSum\obj\Debug\net6.0\04.VowelSum.dll
+D:\Иван\Project from GitHub\Programming-QA-September-2023-SoftUni\ProgrammingFundamentalsAndUnitTesting\12.ExerciseLoops\04.VowelSum\obj\Debug\net6.0\refint\04.VowelSum.dll
+D:\Иван\Project from GitHub\Programming-QA-September-2023-SoftUni\ProgrammingFundamentalsAndUnitTesting\12.ExerciseLoops\04.VowelSum\obj\Debug\net6.0\04.VowelSum.pdb
+D:\Иван\Project from GitHub\Programming-QA-September-2023-SoftUni\ProgrammingFundamentalsAndUnitTesting\12.ExerciseLoops\04.VowelSum\obj\Debug\net6.0\04.VowelSum.genruntimeconfig.cache
+D:\Иван\Project from GitHub\Programming-QA-September-2023-SoftUni\ProgrammingFundamentalsAndUnitTesting\12.ExerciseLoops\04.VowelSum\obj\Debug\net6.0\ref\04.VowelSum.dll
