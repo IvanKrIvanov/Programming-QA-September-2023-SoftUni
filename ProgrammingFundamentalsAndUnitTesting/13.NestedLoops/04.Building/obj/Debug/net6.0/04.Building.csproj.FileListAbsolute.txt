@@ -1,0 +1,14 @@
+D:\Иван\GitHub\Programming-QA-September-2023-SoftUni\ProgrammingFundamentalsAndUnitTesting\13.NestedLoops\04.Building\bin\Debug\net6.0\04.Building.exe
+D:\Иван\GitHub\Programming-QA-September-2023-SoftUni\ProgrammingFundamentalsAndUnitTesting\13.NestedLoops\04.Building\bin\Debug\net6.0\04.Building.deps.json
+D:\Иван\GitHub\Programming-QA-September-2023-SoftUni\ProgrammingFundamentalsAndUnitTesting\13.NestedLoops\04.Building\bin\Debug\net6.0\04.Building.runtimeconfig.json
+D:\Иван\GitHub\Programming-QA-September-2023-SoftUni\ProgrammingFundamentalsAndUnitTesting\13.NestedLoops\04.Building\bin\Debug\net6.0\04.Building.dll
+D:\Иван\GitHub\Programming-QA-September-2023-SoftUni\ProgrammingFundamentalsAndUnitTesting\13.NestedLoops\04.Building\bin\Debug\net6.0\04.Building.pdb
+D:\Иван\GitHub\Programming-QA-September-2023-SoftUni\ProgrammingFundamentalsAndUnitTesting\13.NestedLoops\04.Building\obj\Debug\net6.0\04.Building.GeneratedMSBuildEditorConfig.editorconfig
+D:\Иван\GitHub\Programming-QA-September-2023-SoftUni\ProgrammingFundamentalsAndUnitTesting\13.NestedLoops\04.Building\obj\Debug\net6.0\04.Building.AssemblyInfoInputs.cache
+D:\Иван\GitHub\Programming-QA-September-2023-SoftUni\ProgrammingFundamentalsAndUnitTesting\13.NestedLoops\04.Building\obj\Debug\net6.0\04.Building.AssemblyInfo.cs
+D:\Иван\GitHub\Programming-QA-September-2023-SoftUni\ProgrammingFundamentalsAndUnitTesting\13.NestedLoops\04.Building\obj\Debug\net6.0\04.Building.csproj.CoreCompileInputs.cache
+D:\Иван\GitHub\Programming-QA-September-2023-SoftUni\ProgrammingFundamentalsAndUnitTesting\13.NestedLoops\04.Building\obj\Debug\net6.0\04.Building.dll
+D:\Иван\GitHub\Programming-QA-September-2023-SoftUni\ProgrammingFundamentalsAndUnitTesting\13.NestedLoops\04.Building\obj\Debug\net6.0\refint\04.Building.dll
+D:\Иван\GitHub\Programming-QA-September-2023-SoftUni\ProgrammingFundamentalsAndUnitTesting\13.NestedLoops\04.Building\obj\Debug\net6.0\04.Building.pdb
+D:\Иван\GitHub\Programming-QA-September-2023-SoftUni\ProgrammingFundamentalsAndUnitTesting\13.NestedLoops\04.Building\obj\Debug\net6.0\04.Building.genruntimeconfig.cache
+D:\Иван\GitHub\Programming-QA-September-2023-SoftUni\ProgrammingFundamentalsAndUnitTesting\13.NestedLoops\04.Building\obj\Debug\net6.0\ref\04.Building.dll

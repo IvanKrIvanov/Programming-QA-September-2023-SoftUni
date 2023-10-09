@@ -1,0 +1,14 @@
+D:\Иван\GitHub\Programming-QA-September-2023-SoftUni\ProgrammingFundamentalsAndUnitTesting\13.NestedLoops\03.TriangleОfStars\bin\Debug\net6.0\03.TriangleОfStars.exe
+D:\Иван\GitHub\Programming-QA-September-2023-SoftUni\ProgrammingFundamentalsAndUnitTesting\13.NestedLoops\03.TriangleОfStars\bin\Debug\net6.0\03.TriangleОfStars.deps.json
+D:\Иван\GitHub\Programming-QA-September-2023-SoftUni\ProgrammingFundamentalsAndUnitTesting\13.NestedLoops\03.TriangleОfStars\bin\Debug\net6.0\03.TriangleОfStars.runtimeconfig.json
+D:\Иван\GitHub\Programming-QA-September-2023-SoftUni\ProgrammingFundamentalsAndUnitTesting\13.NestedLoops\03.TriangleОfStars\bin\Debug\net6.0\03.TriangleОfStars.dll
+D:\Иван\GitHub\Programming-QA-September-2023-SoftUni\ProgrammingFundamentalsAndUnitTesting\13.NestedLoops\03.TriangleОfStars\bin\Debug\net6.0\03.TriangleОfStars.pdb
+D:\Иван\GitHub\Programming-QA-September-2023-SoftUni\ProgrammingFundamentalsAndUnitTesting\13.NestedLoops\03.TriangleОfStars\obj\Debug\net6.0\03.TriangleОfStars.GeneratedMSBuildEditorConfig.editorconfig
+D:\Иван\GitHub\Programming-QA-September-2023-SoftUni\ProgrammingFundamentalsAndUnitTesting\13.NestedLoops\03.TriangleОfStars\obj\Debug\net6.0\03.TriangleОfStars.AssemblyInfoInputs.cache
+D:\Иван\GitHub\Programming-QA-September-2023-SoftUni\ProgrammingFundamentalsAndUnitTesting\13.NestedLoops\03.TriangleОfStars\obj\Debug\net6.0\03.TriangleОfStars.AssemblyInfo.cs
+D:\Иван\GitHub\Programming-QA-September-2023-SoftUni\ProgrammingFundamentalsAndUnitTesting\13.NestedLoops\03.TriangleОfStars\obj\Debug\net6.0\03.TriangleОfStars.csproj.CoreCompileInputs.cache
+D:\Иван\GitHub\Programming-QA-September-2023-SoftUni\ProgrammingFundamentalsAndUnitTesting\13.NestedLoops\03.TriangleОfStars\obj\Debug\net6.0\03.TriangleОfStars.dll
+D:\Иван\GitHub\Programming-QA-September-2023-SoftUni\ProgrammingFundamentalsAndUnitTesting\13.NestedLoops\03.TriangleОfStars\obj\Debug\net6.0\refint\03.TriangleОfStars.dll
+D:\Иван\GitHub\Programming-QA-September-2023-SoftUni\ProgrammingFundamentalsAndUnitTesting\13.NestedLoops\03.TriangleОfStars\obj\Debug\net6.0\03.TriangleОfStars.pdb
+D:\Иван\GitHub\Programming-QA-September-2023-SoftUni\ProgrammingFundamentalsAndUnitTesting\13.NestedLoops\03.TriangleОfStars\obj\Debug\net6.0\03.TriangleОfStars.genruntimeconfig.cache
+D:\Иван\GitHub\Programming-QA-September-2023-SoftUni\ProgrammingFundamentalsAndUnitTesting\13.NestedLoops\03.TriangleОfStars\obj\Debug\net6.0\ref\03.TriangleОfStars.dll

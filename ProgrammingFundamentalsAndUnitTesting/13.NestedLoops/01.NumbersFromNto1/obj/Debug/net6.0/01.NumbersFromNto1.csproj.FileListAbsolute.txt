@@ -1,0 +1,14 @@
+D:\Иван\GitHub\Programming-QA-September-2023-SoftUni\ProgrammingFundamentalsAndUnitTesting\13.NestedLoops\01.NumbersFromNto1\bin\Debug\net6.0\01.NumbersFromNto1.exe
+D:\Иван\GitHub\Programming-QA-September-2023-SoftUni\ProgrammingFundamentalsAndUnitTesting\13.NestedLoops\01.NumbersFromNto1\bin\Debug\net6.0\01.NumbersFromNto1.deps.json
+D:\Иван\GitHub\Programming-QA-September-2023-SoftUni\ProgrammingFundamentalsAndUnitTesting\13.NestedLoops\01.NumbersFromNto1\bin\Debug\net6.0\01.NumbersFromNto1.runtimeconfig.json
+D:\Иван\GitHub\Programming-QA-September-2023-SoftUni\ProgrammingFundamentalsAndUnitTesting\13.NestedLoops\01.NumbersFromNto1\bin\Debug\net6.0\01.NumbersFromNto1.dll
+D:\Иван\GitHub\Programming-QA-September-2023-SoftUni\ProgrammingFundamentalsAndUnitTesting\13.NestedLoops\01.NumbersFromNto1\bin\Debug\net6.0\01.NumbersFromNto1.pdb
+D:\Иван\GitHub\Programming-QA-September-2023-SoftUni\ProgrammingFundamentalsAndUnitTesting\13.NestedLoops\01.NumbersFromNto1\obj\Debug\net6.0\01.NumbersFromNto1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Иван\GitHub\Programming-QA-September-2023-SoftUni\ProgrammingFundamentalsAndUnitTesting\13.NestedLoops\01.NumbersFromNto1\obj\Debug\net6.0\01.NumbersFromNto1.AssemblyInfoInputs.cache
+D:\Иван\GitHub\Programming-QA-September-2023-SoftUni\ProgrammingFundamentalsAndUnitTesting\13.NestedLoops\01.NumbersFromNto1\obj\Debug\net6.0\01.NumbersFromNto1.AssemblyInfo.cs
+D:\Иван\GitHub\Programming-QA-September-2023-SoftUni\ProgrammingFundamentalsAndUnitTesting\13.NestedLoops\01.NumbersFromNto1\obj\Debug\net6.0\01.NumbersFromNto1.csproj.CoreCompileInputs.cache
+D:\Иван\GitHub\Programming-QA-September-2023-SoftUni\ProgrammingFundamentalsAndUnitTesting\13.NestedLoops\01.NumbersFromNto1\obj\Debug\net6.0\01.NumbersFromNto1.dll
+D:\Иван\GitHub\Programming-QA-September-2023-SoftUni\ProgrammingFundamentalsAndUnitTesting\13.NestedLoops\01.NumbersFromNto1\obj\Debug\net6.0\refint\01.NumbersFromNto1.dll
+D:\Иван\GitHub\Programming-QA-September-2023-SoftUni\ProgrammingFundamentalsAndUnitTesting\13.NestedLoops\01.NumbersFromNto1\obj\Debug\net6.0\01.NumbersFromNto1.pdb
+D:\Иван\GitHub\Programming-QA-September-2023-SoftUni\ProgrammingFundamentalsAndUnitTesting\13.NestedLoops\01.NumbersFromNto1\obj\Debug\net6.0\01.NumbersFromNto1.genruntimeconfig.cache
+D:\Иван\GitHub\Programming-QA-September-2023-SoftUni\ProgrammingFundamentalsAndUnitTesting\13.NestedLoops\01.NumbersFromNto1\obj\Debug\net6.0\ref\01.NumbersFromNto1.dll

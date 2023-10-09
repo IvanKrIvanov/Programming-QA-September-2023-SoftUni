@@ -1,0 +1,4 @@
+D:\Иван\GitHub\Programming-QA-September-2023-SoftUni\ProgrammingFundamentalsAndUnitTesting\13.NestedLoops\08.PrimeNumbers\obj\Debug\net6.0\08.PrimeNumbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\Иван\GitHub\Programming-QA-September-2023-SoftUni\ProgrammingFundamentalsAndUnitTesting\13.NestedLoops\08.PrimeNumbers\obj\Debug\net6.0\08.PrimeNumbers.AssemblyInfoInputs.cache
+D:\Иван\GitHub\Programming-QA-September-2023-SoftUni\ProgrammingFundamentalsAndUnitTesting\13.NestedLoops\08.PrimeNumbers\obj\Debug\net6.0\08.PrimeNumbers.AssemblyInfo.cs
+D:\Иван\GitHub\Programming-QA-September-2023-SoftUni\ProgrammingFundamentalsAndUnitTesting\13.NestedLoops\08.PrimeNumbers\obj\Debug\net6.0\08.PrimeNumbers.csproj.CoreCompileInputs.cache
