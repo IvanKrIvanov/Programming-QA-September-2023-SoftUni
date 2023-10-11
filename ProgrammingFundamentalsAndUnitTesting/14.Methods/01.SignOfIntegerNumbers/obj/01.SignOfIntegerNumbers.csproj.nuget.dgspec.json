@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Иван\\GitHub\\Programming-QA-September-2023-SoftUni\\ProgrammingFundamentalsAndUnitTesting\\01.SignOfIntegerNumbers\\01.SignOfIntegerNumbers\\01.SignOfIntegerNumbers.csproj": {}
+    "D:\\Иван\\GitHub\\Programming-QA-September-2023-SoftUni\\ProgrammingFundamentalsAndUnitTesting\\14.Methods\\01.SignOfIntegerNumbers\\01.SignOfIntegerNumbers.csproj": {}
   },
   "projects": {
-    "D:\\Иван\\GitHub\\Programming-QA-September-2023-SoftUni\\ProgrammingFundamentalsAndUnitTesting\\01.SignOfIntegerNumbers\\01.SignOfIntegerNumbers\\01.SignOfIntegerNumbers.csproj": {
+    "D:\\Иван\\GitHub\\Programming-QA-September-2023-SoftUni\\ProgrammingFundamentalsAndUnitTesting\\14.Methods\\01.SignOfIntegerNumbers\\01.SignOfIntegerNumbers.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Иван\\GitHub\\Programming-QA-September-2023-SoftUni\\ProgrammingFundamentalsAndUnitTesting\\01.SignOfIntegerNumbers\\01.SignOfIntegerNumbers\\01.SignOfIntegerNumbers.csproj",
+        "projectUniqueName": "D:\\Иван\\GitHub\\Programming-QA-September-2023-SoftUni\\ProgrammingFundamentalsAndUnitTesting\\14.Methods\\01.SignOfIntegerNumbers\\01.SignOfIntegerNumbers.csproj",
         "projectName": "01.SignOfIntegerNumbers",
-        "projectPath": "D:\\Иван\\GitHub\\Programming-QA-September-2023-SoftUni\\ProgrammingFundamentalsAndUnitTesting\\01.SignOfIntegerNumbers\\01.SignOfIntegerNumbers\\01.SignOfIntegerNumbers.csproj",
+        "projectPath": "D:\\Иван\\GitHub\\Programming-QA-September-2023-SoftUni\\ProgrammingFundamentalsAndUnitTesting\\14.Methods\\01.SignOfIntegerNumbers\\01.SignOfIntegerNumbers.csproj",
         "packagesPath": "C:\\Users\\ivano\\.nuget\\packages\\",
-        "outputPath": "D:\\Иван\\GitHub\\Programming-QA-September-2023-SoftUni\\ProgrammingFundamentalsAndUnitTesting\\01.SignOfIntegerNumbers\\01.SignOfIntegerNumbers\\obj\\",
+        "outputPath": "D:\\Иван\\GitHub\\Programming-QA-September-2023-SoftUni\\ProgrammingFundamentalsAndUnitTesting\\14.Methods\\01.SignOfIntegerNumbers\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ivano\\AppData\\Roaming\\NuGet\\NuGet.Config",

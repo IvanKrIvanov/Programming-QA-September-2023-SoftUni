@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Иван\\GitHub\\Programming-QA-September-2023-SoftUni\\ProgrammingFundamentalsAndUnitTesting\\01.SignOfIntegerNumbers\\03.PrintingTriangle\\03.PrintingTriangle.csproj",
+      "projectUniqueName": "D:\\Иван\\GitHub\\Programming-QA-September-2023-SoftUni\\ProgrammingFundamentalsAndUnitTesting\\14.Methods\\03.PrintingTriangle\\03.PrintingTriangle.csproj",
       "projectName": "03.PrintingTriangle",
-      "projectPath": "D:\\Иван\\GitHub\\Programming-QA-September-2023-SoftUni\\ProgrammingFundamentalsAndUnitTesting\\01.SignOfIntegerNumbers\\03.PrintingTriangle\\03.PrintingTriangle.csproj",
+      "projectPath": "D:\\Иван\\GitHub\\Programming-QA-September-2023-SoftUni\\ProgrammingFundamentalsAndUnitTesting\\14.Methods\\03.PrintingTriangle\\03.PrintingTriangle.csproj",
       "packagesPath": "C:\\Users\\ivano\\.nuget\\packages\\",
-      "outputPath": "D:\\Иван\\GitHub\\Programming-QA-September-2023-SoftUni\\ProgrammingFundamentalsAndUnitTesting\\01.SignOfIntegerNumbers\\03.PrintingTriangle\\obj\\",
+      "outputPath": "D:\\Иван\\GitHub\\Programming-QA-September-2023-SoftUni\\ProgrammingFundamentalsAndUnitTesting\\14.Methods\\03.PrintingTriangle\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ivano\\AppData\\Roaming\\NuGet\\NuGet.Config",

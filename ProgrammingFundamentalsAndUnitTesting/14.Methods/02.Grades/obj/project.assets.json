@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Иван\\GitHub\\Programming-QA-September-2023-SoftUni\\ProgrammingFundamentalsAndUnitTesting\\01.SignOfIntegerNumbers\\02.Grades\\02.Grades.csproj",
+      "projectUniqueName": "D:\\Иван\\GitHub\\Programming-QA-September-2023-SoftUni\\ProgrammingFundamentalsAndUnitTesting\\14.Methods\\02.Grades\\02.Grades.csproj",
       "projectName": "02.Grades",
-      "projectPath": "D:\\Иван\\GitHub\\Programming-QA-September-2023-SoftUni\\ProgrammingFundamentalsAndUnitTesting\\01.SignOfIntegerNumbers\\02.Grades\\02.Grades.csproj",
+      "projectPath": "D:\\Иван\\GitHub\\Programming-QA-September-2023-SoftUni\\ProgrammingFundamentalsAndUnitTesting\\14.Methods\\02.Grades\\02.Grades.csproj",
       "packagesPath": "C:\\Users\\ivano\\.nuget\\packages\\",
-      "outputPath": "D:\\Иван\\GitHub\\Programming-QA-September-2023-SoftUni\\ProgrammingFundamentalsAndUnitTesting\\01.SignOfIntegerNumbers\\02.Grades\\obj\\",
+      "outputPath": "D:\\Иван\\GitHub\\Programming-QA-September-2023-SoftUni\\ProgrammingFundamentalsAndUnitTesting\\14.Methods\\02.Grades\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ivano\\AppData\\Roaming\\NuGet\\NuGet.Config",

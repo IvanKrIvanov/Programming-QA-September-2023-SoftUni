@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Иван\\GitHub\\Programming-QA-September-2023-SoftUni\\ProgrammingFundamentalsAndUnitTesting\\01.SignOfIntegerNumbers\\08.MultiplyEvensByOdds\\08.MultiplyEvensByOdds.csproj",
+      "projectUniqueName": "D:\\Иван\\GitHub\\Programming-QA-September-2023-SoftUni\\ProgrammingFundamentalsAndUnitTesting\\14.Methods\\08.MultiplyEvensByOdds\\08.MultiplyEvensByOdds.csproj",
       "projectName": "08.MultiplyEvensByOdds",
-      "projectPath": "D:\\Иван\\GitHub\\Programming-QA-September-2023-SoftUni\\ProgrammingFundamentalsAndUnitTesting\\01.SignOfIntegerNumbers\\08.MultiplyEvensByOdds\\08.MultiplyEvensByOdds.csproj",
+      "projectPath": "D:\\Иван\\GitHub\\Programming-QA-September-2023-SoftUni\\ProgrammingFundamentalsAndUnitTesting\\14.Methods\\08.MultiplyEvensByOdds\\08.MultiplyEvensByOdds.csproj",
       "packagesPath": "C:\\Users\\ivano\\.nuget\\packages\\",
-      "outputPath": "D:\\Иван\\GitHub\\Programming-QA-September-2023-SoftUni\\ProgrammingFundamentalsAndUnitTesting\\01.SignOfIntegerNumbers\\08.MultiplyEvensByOdds\\obj\\",
+      "outputPath": "D:\\Иван\\GitHub\\Programming-QA-September-2023-SoftUni\\ProgrammingFundamentalsAndUnitTesting\\14.Methods\\08.MultiplyEvensByOdds\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ivano\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Иван\\GitHub\\Programming-QA-September-2023-SoftUni\\ProgrammingFundamentalsAndUnitTesting\\01.SignOfIntegerNumbers\\09.Orders\\09.Orders.csproj",
+      "projectUniqueName": "D:\\Иван\\GitHub\\Programming-QA-September-2023-SoftUni\\ProgrammingFundamentalsAndUnitTesting\\14.Methods\\09.Orders\\09.Orders.csproj",
       "projectName": "09.Orders",
-      "projectPath": "D:\\Иван\\GitHub\\Programming-QA-September-2023-SoftUni\\ProgrammingFundamentalsAndUnitTesting\\01.SignOfIntegerNumbers\\09.Orders\\09.Orders.csproj",
+      "projectPath": "D:\\Иван\\GitHub\\Programming-QA-September-2023-SoftUni\\ProgrammingFundamentalsAndUnitTesting\\14.Methods\\09.Orders\\09.Orders.csproj",
       "packagesPath": "C:\\Users\\ivano\\.nuget\\packages\\",
-      "outputPath": "D:\\Иван\\GitHub\\Programming-QA-September-2023-SoftUni\\ProgrammingFundamentalsAndUnitTesting\\01.SignOfIntegerNumbers\\09.Orders\\obj\\",
+      "outputPath": "D:\\Иван\\GitHub\\Programming-QA-September-2023-SoftUni\\ProgrammingFundamentalsAndUnitTesting\\14.Methods\\09.Orders\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ivano\\AppData\\Roaming\\NuGet\\NuGet.Config",
