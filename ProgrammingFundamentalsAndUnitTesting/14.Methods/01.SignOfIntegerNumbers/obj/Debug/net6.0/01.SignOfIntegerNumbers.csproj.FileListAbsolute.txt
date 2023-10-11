@@ -1,0 +1,14 @@
+D:\Иван\GitHub\Programming-QA-September-2023-SoftUni\ProgrammingFundamentalsAndUnitTesting\01.SignOfIntegerNumbers\01.SignOfIntegerNumbers\bin\Debug\net6.0\01.SignOfIntegerNumbers.exe
+D:\Иван\GitHub\Programming-QA-September-2023-SoftUni\ProgrammingFundamentalsAndUnitTesting\01.SignOfIntegerNumbers\01.SignOfIntegerNumbers\bin\Debug\net6.0\01.SignOfIntegerNumbers.deps.json
+D:\Иван\GitHub\Programming-QA-September-2023-SoftUni\ProgrammingFundamentalsAndUnitTesting\01.SignOfIntegerNumbers\01.SignOfIntegerNumbers\bin\Debug\net6.0\01.SignOfIntegerNumbers.runtimeconfig.json
+D:\Иван\GitHub\Programming-QA-September-2023-SoftUni\ProgrammingFundamentalsAndUnitTesting\01.SignOfIntegerNumbers\01.SignOfIntegerNumbers\bin\Debug\net6.0\01.SignOfIntegerNumbers.dll
+D:\Иван\GitHub\Programming-QA-September-2023-SoftUni\ProgrammingFundamentalsAndUnitTesting\01.SignOfIntegerNumbers\01.SignOfIntegerNumbers\bin\Debug\net6.0\01.SignOfIntegerNumbers.pdb
+D:\Иван\GitHub\Programming-QA-September-2023-SoftUni\ProgrammingFundamentalsAndUnitTesting\01.SignOfIntegerNumbers\01.SignOfIntegerNumbers\obj\Debug\net6.0\01.SignOfIntegerNumbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\Иван\GitHub\Programming-QA-September-2023-SoftUni\ProgrammingFundamentalsAndUnitTesting\01.SignOfIntegerNumbers\01.SignOfIntegerNumbers\obj\Debug\net6.0\01.SignOfIntegerNumbers.AssemblyInfoInputs.cache
+D:\Иван\GitHub\Programming-QA-September-2023-SoftUni\ProgrammingFundamentalsAndUnitTesting\01.SignOfIntegerNumbers\01.SignOfIntegerNumbers\obj\Debug\net6.0\01.SignOfIntegerNumbers.AssemblyInfo.cs
+D:\Иван\GitHub\Programming-QA-September-2023-SoftUni\ProgrammingFundamentalsAndUnitTesting\01.SignOfIntegerNumbers\01.SignOfIntegerNumbers\obj\Debug\net6.0\01.SignOfIntegerNumbers.csproj.CoreCompileInputs.cache
+D:\Иван\GitHub\Programming-QA-September-2023-SoftUni\ProgrammingFundamentalsAndUnitTesting\01.SignOfIntegerNumbers\01.SignOfIntegerNumbers\obj\Debug\net6.0\01.SignOfIntegerNumbers.dll
+D:\Иван\GitHub\Programming-QA-September-2023-SoftUni\ProgrammingFundamentalsAndUnitTesting\01.SignOfIntegerNumbers\01.SignOfIntegerNumbers\obj\Debug\net6.0\refint\01.SignOfIntegerNumbers.dll
+D:\Иван\GitHub\Programming-QA-September-2023-SoftUni\ProgrammingFundamentalsAndUnitTesting\01.SignOfIntegerNumbers\01.SignOfIntegerNumbers\obj\Debug\net6.0\01.SignOfIntegerNumbers.pdb
+D:\Иван\GitHub\Programming-QA-September-2023-SoftUni\ProgrammingFundamentalsAndUnitTesting\01.SignOfIntegerNumbers\01.SignOfIntegerNumbers\obj\Debug\net6.0\01.SignOfIntegerNumbers.genruntimeconfig.cache
+D:\Иван\GitHub\Programming-QA-September-2023-SoftUni\ProgrammingFundamentalsAndUnitTesting\01.SignOfIntegerNumbers\01.SignOfIntegerNumbers\obj\Debug\net6.0\ref\01.SignOfIntegerNumbers.dll

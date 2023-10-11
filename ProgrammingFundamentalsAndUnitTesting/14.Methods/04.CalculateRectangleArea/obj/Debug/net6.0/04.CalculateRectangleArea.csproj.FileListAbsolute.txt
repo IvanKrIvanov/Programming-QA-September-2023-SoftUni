@@ -1,0 +1,14 @@
+D:\Иван\GitHub\Programming-QA-September-2023-SoftUni\ProgrammingFundamentalsAndUnitTesting\01.SignOfIntegerNumbers\04.CalculateRectangleArea\bin\Debug\net6.0\04.CalculateRectangleArea.exe
+D:\Иван\GitHub\Programming-QA-September-2023-SoftUni\ProgrammingFundamentalsAndUnitTesting\01.SignOfIntegerNumbers\04.CalculateRectangleArea\bin\Debug\net6.0\04.CalculateRectangleArea.deps.json
+D:\Иван\GitHub\Programming-QA-September-2023-SoftUni\ProgrammingFundamentalsAndUnitTesting\01.SignOfIntegerNumbers\04.CalculateRectangleArea\bin\Debug\net6.0\04.CalculateRectangleArea.runtimeconfig.json
+D:\Иван\GitHub\Programming-QA-September-2023-SoftUni\ProgrammingFundamentalsAndUnitTesting\01.SignOfIntegerNumbers\04.CalculateRectangleArea\bin\Debug\net6.0\04.CalculateRectangleArea.dll
+D:\Иван\GitHub\Programming-QA-September-2023-SoftUni\ProgrammingFundamentalsAndUnitTesting\01.SignOfIntegerNumbers\04.CalculateRectangleArea\bin\Debug\net6.0\04.CalculateRectangleArea.pdb
+D:\Иван\GitHub\Programming-QA-September-2023-SoftUni\ProgrammingFundamentalsAndUnitTesting\01.SignOfIntegerNumbers\04.CalculateRectangleArea\obj\Debug\net6.0\04.CalculateRectangleArea.GeneratedMSBuildEditorConfig.editorconfig
+D:\Иван\GitHub\Programming-QA-September-2023-SoftUni\ProgrammingFundamentalsAndUnitTesting\01.SignOfIntegerNumbers\04.CalculateRectangleArea\obj\Debug\net6.0\04.CalculateRectangleArea.AssemblyInfoInputs.cache
+D:\Иван\GitHub\Programming-QA-September-2023-SoftUni\ProgrammingFundamentalsAndUnitTesting\01.SignOfIntegerNumbers\04.CalculateRectangleArea\obj\Debug\net6.0\04.CalculateRectangleArea.AssemblyInfo.cs
+D:\Иван\GitHub\Programming-QA-September-2023-SoftUni\ProgrammingFundamentalsAndUnitTesting\01.SignOfIntegerNumbers\04.CalculateRectangleArea\obj\Debug\net6.0\04.CalculateRectangleArea.csproj.CoreCompileInputs.cache
+D:\Иван\GitHub\Programming-QA-September-2023-SoftUni\ProgrammingFundamentalsAndUnitTesting\01.SignOfIntegerNumbers\04.CalculateRectangleArea\obj\Debug\net6.0\04.CalculateRectangleArea.dll
+D:\Иван\GitHub\Programming-QA-September-2023-SoftUni\ProgrammingFundamentalsAndUnitTesting\01.SignOfIntegerNumbers\04.CalculateRectangleArea\obj\Debug\net6.0\refint\04.CalculateRectangleArea.dll
+D:\Иван\GitHub\Programming-QA-September-2023-SoftUni\ProgrammingFundamentalsAndUnitTesting\01.SignOfIntegerNumbers\04.CalculateRectangleArea\obj\Debug\net6.0\04.CalculateRectangleArea.pdb
+D:\Иван\GitHub\Programming-QA-September-2023-SoftUni\ProgrammingFundamentalsAndUnitTesting\01.SignOfIntegerNumbers\04.CalculateRectangleArea\obj\Debug\net6.0\04.CalculateRectangleArea.genruntimeconfig.cache
+D:\Иван\GitHub\Programming-QA-September-2023-SoftUni\ProgrammingFundamentalsAndUnitTesting\01.SignOfIntegerNumbers\04.CalculateRectangleArea\obj\Debug\net6.0\ref\04.CalculateRectangleArea.dll
