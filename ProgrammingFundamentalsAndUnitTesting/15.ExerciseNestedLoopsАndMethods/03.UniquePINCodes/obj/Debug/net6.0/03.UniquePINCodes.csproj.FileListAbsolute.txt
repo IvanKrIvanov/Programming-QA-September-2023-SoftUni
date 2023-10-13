@@ -1,0 +1,14 @@
+D:\Иван\GitHub\Programming-QA-September-2023-SoftUni\ProgrammingFundamentalsAndUnitTesting\15.ExerciseNestedLoopsАndMethods\03.UniquePINCodes\bin\Debug\net6.0\03.UniquePINCodes.exe
+D:\Иван\GitHub\Programming-QA-September-2023-SoftUni\ProgrammingFundamentalsAndUnitTesting\15.ExerciseNestedLoopsАndMethods\03.UniquePINCodes\bin\Debug\net6.0\03.UniquePINCodes.deps.json
+D:\Иван\GitHub\Programming-QA-September-2023-SoftUni\ProgrammingFundamentalsAndUnitTesting\15.ExerciseNestedLoopsАndMethods\03.UniquePINCodes\bin\Debug\net6.0\03.UniquePINCodes.runtimeconfig.json
+D:\Иван\GitHub\Programming-QA-September-2023-SoftUni\ProgrammingFundamentalsAndUnitTesting\15.ExerciseNestedLoopsАndMethods\03.UniquePINCodes\bin\Debug\net6.0\03.UniquePINCodes.dll
+D:\Иван\GitHub\Programming-QA-September-2023-SoftUni\ProgrammingFundamentalsAndUnitTesting\15.ExerciseNestedLoopsАndMethods\03.UniquePINCodes\bin\Debug\net6.0\03.UniquePINCodes.pdb
+D:\Иван\GitHub\Programming-QA-September-2023-SoftUni\ProgrammingFundamentalsAndUnitTesting\15.ExerciseNestedLoopsАndMethods\03.UniquePINCodes\obj\Debug\net6.0\03.UniquePINCodes.GeneratedMSBuildEditorConfig.editorconfig
+D:\Иван\GitHub\Programming-QA-September-2023-SoftUni\ProgrammingFundamentalsAndUnitTesting\15.ExerciseNestedLoopsАndMethods\03.UniquePINCodes\obj\Debug\net6.0\03.UniquePINCodes.AssemblyInfoInputs.cache
+D:\Иван\GitHub\Programming-QA-September-2023-SoftUni\ProgrammingFundamentalsAndUnitTesting\15.ExerciseNestedLoopsАndMethods\03.UniquePINCodes\obj\Debug\net6.0\03.UniquePINCodes.AssemblyInfo.cs
+D:\Иван\GitHub\Programming-QA-September-2023-SoftUni\ProgrammingFundamentalsAndUnitTesting\15.ExerciseNestedLoopsАndMethods\03.UniquePINCodes\obj\Debug\net6.0\03.UniquePINCodes.csproj.CoreCompileInputs.cache
+D:\Иван\GitHub\Programming-QA-September-2023-SoftUni\ProgrammingFundamentalsAndUnitTesting\15.ExerciseNestedLoopsАndMethods\03.UniquePINCodes\obj\Debug\net6.0\03.UniquePINCodes.dll
+D:\Иван\GitHub\Programming-QA-September-2023-SoftUni\ProgrammingFundamentalsAndUnitTesting\15.ExerciseNestedLoopsАndMethods\03.UniquePINCodes\obj\Debug\net6.0\refint\03.UniquePINCodes.dll
+D:\Иван\GitHub\Programming-QA-September-2023-SoftUni\ProgrammingFundamentalsAndUnitTesting\15.ExerciseNestedLoopsАndMethods\03.UniquePINCodes\obj\Debug\net6.0\03.UniquePINCodes.pdb
+D:\Иван\GitHub\Programming-QA-September-2023-SoftUni\ProgrammingFundamentalsAndUnitTesting\15.ExerciseNestedLoopsАndMethods\03.UniquePINCodes\obj\Debug\net6.0\03.UniquePINCodes.genruntimeconfig.cache
+D:\Иван\GitHub\Programming-QA-September-2023-SoftUni\ProgrammingFundamentalsAndUnitTesting\15.ExerciseNestedLoopsАndMethods\03.UniquePINCodes\obj\Debug\net6.0\ref\03.UniquePINCodes.dll

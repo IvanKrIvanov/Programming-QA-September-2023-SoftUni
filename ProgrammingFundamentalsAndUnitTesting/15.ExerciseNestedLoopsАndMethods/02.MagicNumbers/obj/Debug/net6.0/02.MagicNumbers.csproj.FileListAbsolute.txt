@@ -1,0 +1,14 @@
+D:\Иван\GitHub\Programming-QA-September-2023-SoftUni\ProgrammingFundamentalsAndUnitTesting\15.ExerciseNestedLoopsАndMethods\02.MagicNumbers\bin\Debug\net6.0\02.MagicNumbers.exe
+D:\Иван\GitHub\Programming-QA-September-2023-SoftUni\ProgrammingFundamentalsAndUnitTesting\15.ExerciseNestedLoopsАndMethods\02.MagicNumbers\bin\Debug\net6.0\02.MagicNumbers.deps.json
+D:\Иван\GitHub\Programming-QA-September-2023-SoftUni\ProgrammingFundamentalsAndUnitTesting\15.ExerciseNestedLoopsАndMethods\02.MagicNumbers\bin\Debug\net6.0\02.MagicNumbers.runtimeconfig.json
+D:\Иван\GitHub\Programming-QA-September-2023-SoftUni\ProgrammingFundamentalsAndUnitTesting\15.ExerciseNestedLoopsАndMethods\02.MagicNumbers\bin\Debug\net6.0\02.MagicNumbers.dll
+D:\Иван\GitHub\Programming-QA-September-2023-SoftUni\ProgrammingFundamentalsAndUnitTesting\15.ExerciseNestedLoopsАndMethods\02.MagicNumbers\bin\Debug\net6.0\02.MagicNumbers.pdb
+D:\Иван\GitHub\Programming-QA-September-2023-SoftUni\ProgrammingFundamentalsAndUnitTesting\15.ExerciseNestedLoopsАndMethods\02.MagicNumbers\obj\Debug\net6.0\02.MagicNumbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\Иван\GitHub\Programming-QA-September-2023-SoftUni\ProgrammingFundamentalsAndUnitTesting\15.ExerciseNestedLoopsАndMethods\02.MagicNumbers\obj\Debug\net6.0\02.MagicNumbers.AssemblyInfoInputs.cache
+D:\Иван\GitHub\Programming-QA-September-2023-SoftUni\ProgrammingFundamentalsAndUnitTesting\15.ExerciseNestedLoopsАndMethods\02.MagicNumbers\obj\Debug\net6.0\02.MagicNumbers.AssemblyInfo.cs
+D:\Иван\GitHub\Programming-QA-September-2023-SoftUni\ProgrammingFundamentalsAndUnitTesting\15.ExerciseNestedLoopsАndMethods\02.MagicNumbers\obj\Debug\net6.0\02.MagicNumbers.csproj.CoreCompileInputs.cache
+D:\Иван\GitHub\Programming-QA-September-2023-SoftUni\ProgrammingFundamentalsAndUnitTesting\15.ExerciseNestedLoopsАndMethods\02.MagicNumbers\obj\Debug\net6.0\02.MagicNumbers.dll
+D:\Иван\GitHub\Programming-QA-September-2023-SoftUni\ProgrammingFundamentalsAndUnitTesting\15.ExerciseNestedLoopsАndMethods\02.MagicNumbers\obj\Debug\net6.0\refint\02.MagicNumbers.dll
+D:\Иван\GitHub\Programming-QA-September-2023-SoftUni\ProgrammingFundamentalsAndUnitTesting\15.ExerciseNestedLoopsАndMethods\02.MagicNumbers\obj\Debug\net6.0\02.MagicNumbers.pdb
+D:\Иван\GitHub\Programming-QA-September-2023-SoftUni\ProgrammingFundamentalsAndUnitTesting\15.ExerciseNestedLoopsАndMethods\02.MagicNumbers\obj\Debug\net6.0\02.MagicNumbers.genruntimeconfig.cache
+D:\Иван\GitHub\Programming-QA-September-2023-SoftUni\ProgrammingFundamentalsAndUnitTesting\15.ExerciseNestedLoopsАndMethods\02.MagicNumbers\obj\Debug\net6.0\ref\02.MagicNumbers.dll

@@ -1,0 +1,14 @@
+D:\Иван\GitHub\Programming-QA-September-2023-SoftUni\ProgrammingFundamentalsAndUnitTesting\15.ExerciseNestedLoopsАndMethods\07.FactorialDivision\obj\Debug\net6.0\07.FactorialDivision.GeneratedMSBuildEditorConfig.editorconfig
+D:\Иван\GitHub\Programming-QA-September-2023-SoftUni\ProgrammingFundamentalsAndUnitTesting\15.ExerciseNestedLoopsАndMethods\07.FactorialDivision\obj\Debug\net6.0\07.FactorialDivision.AssemblyInfoInputs.cache
+D:\Иван\GitHub\Programming-QA-September-2023-SoftUni\ProgrammingFundamentalsAndUnitTesting\15.ExerciseNestedLoopsАndMethods\07.FactorialDivision\obj\Debug\net6.0\07.FactorialDivision.AssemblyInfo.cs
+D:\Иван\GitHub\Programming-QA-September-2023-SoftUni\ProgrammingFundamentalsAndUnitTesting\15.ExerciseNestedLoopsАndMethods\07.FactorialDivision\obj\Debug\net6.0\07.FactorialDivision.csproj.CoreCompileInputs.cache
+D:\Иван\GitHub\Programming-QA-September-2023-SoftUni\ProgrammingFundamentalsAndUnitTesting\15.ExerciseNestedLoopsАndMethods\07.FactorialDivision\bin\Debug\net6.0\07.FactorialDivision.exe
+D:\Иван\GitHub\Programming-QA-September-2023-SoftUni\ProgrammingFundamentalsAndUnitTesting\15.ExerciseNestedLoopsАndMethods\07.FactorialDivision\bin\Debug\net6.0\07.FactorialDivision.deps.json
+D:\Иван\GitHub\Programming-QA-September-2023-SoftUni\ProgrammingFundamentalsAndUnitTesting\15.ExerciseNestedLoopsАndMethods\07.FactorialDivision\bin\Debug\net6.0\07.FactorialDivision.runtimeconfig.json
+D:\Иван\GitHub\Programming-QA-September-2023-SoftUni\ProgrammingFundamentalsAndUnitTesting\15.ExerciseNestedLoopsАndMethods\07.FactorialDivision\bin\Debug\net6.0\07.FactorialDivision.dll
+D:\Иван\GitHub\Programming-QA-September-2023-SoftUni\ProgrammingFundamentalsAndUnitTesting\15.ExerciseNestedLoopsАndMethods\07.FactorialDivision\bin\Debug\net6.0\07.FactorialDivision.pdb
+D:\Иван\GitHub\Programming-QA-September-2023-SoftUni\ProgrammingFundamentalsAndUnitTesting\15.ExerciseNestedLoopsАndMethods\07.FactorialDivision\obj\Debug\net6.0\07.FactorialDivision.dll
+D:\Иван\GitHub\Programming-QA-September-2023-SoftUni\ProgrammingFundamentalsAndUnitTesting\15.ExerciseNestedLoopsАndMethods\07.FactorialDivision\obj\Debug\net6.0\refint\07.FactorialDivision.dll
+D:\Иван\GitHub\Programming-QA-September-2023-SoftUni\ProgrammingFundamentalsAndUnitTesting\15.ExerciseNestedLoopsАndMethods\07.FactorialDivision\obj\Debug\net6.0\07.FactorialDivision.pdb
+D:\Иван\GitHub\Programming-QA-September-2023-SoftUni\ProgrammingFundamentalsAndUnitTesting\15.ExerciseNestedLoopsАndMethods\07.FactorialDivision\obj\Debug\net6.0\07.FactorialDivision.genruntimeconfig.cache
+D:\Иван\GitHub\Programming-QA-September-2023-SoftUni\ProgrammingFundamentalsAndUnitTesting\15.ExerciseNestedLoopsАndMethods\07.FactorialDivision\obj\Debug\net6.0\ref\07.FactorialDivision.dll
