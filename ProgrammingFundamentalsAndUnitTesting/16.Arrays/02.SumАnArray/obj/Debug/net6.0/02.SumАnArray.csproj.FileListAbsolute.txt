@@ -1,0 +1,14 @@
+D:\Иван\GitHub\Programming-QA-September-2023-SoftUni\ProgrammingFundamentalsAndUnitTesting\16.Arrays\02.SumАnArray\bin\Debug\net6.0\02.SumАnArray.exe
+D:\Иван\GitHub\Programming-QA-September-2023-SoftUni\ProgrammingFundamentalsAndUnitTesting\16.Arrays\02.SumАnArray\bin\Debug\net6.0\02.SumАnArray.deps.json
+D:\Иван\GitHub\Programming-QA-September-2023-SoftUni\ProgrammingFundamentalsAndUnitTesting\16.Arrays\02.SumАnArray\bin\Debug\net6.0\02.SumАnArray.runtimeconfig.json
+D:\Иван\GitHub\Programming-QA-September-2023-SoftUni\ProgrammingFundamentalsAndUnitTesting\16.Arrays\02.SumАnArray\bin\Debug\net6.0\02.SumАnArray.dll
+D:\Иван\GitHub\Programming-QA-September-2023-SoftUni\ProgrammingFundamentalsAndUnitTesting\16.Arrays\02.SumАnArray\bin\Debug\net6.0\02.SumАnArray.pdb
+D:\Иван\GitHub\Programming-QA-September-2023-SoftUni\ProgrammingFundamentalsAndUnitTesting\16.Arrays\02.SumАnArray\obj\Debug\net6.0\02.SumАnArray.GeneratedMSBuildEditorConfig.editorconfig
+D:\Иван\GitHub\Programming-QA-September-2023-SoftUni\ProgrammingFundamentalsAndUnitTesting\16.Arrays\02.SumАnArray\obj\Debug\net6.0\02.SumАnArray.AssemblyInfoInputs.cache
+D:\Иван\GitHub\Programming-QA-September-2023-SoftUni\ProgrammingFundamentalsAndUnitTesting\16.Arrays\02.SumАnArray\obj\Debug\net6.0\02.SumАnArray.AssemblyInfo.cs
+D:\Иван\GitHub\Programming-QA-September-2023-SoftUni\ProgrammingFundamentalsAndUnitTesting\16.Arrays\02.SumАnArray\obj\Debug\net6.0\02.SumАnArray.csproj.CoreCompileInputs.cache
+D:\Иван\GitHub\Programming-QA-September-2023-SoftUni\ProgrammingFundamentalsAndUnitTesting\16.Arrays\02.SumАnArray\obj\Debug\net6.0\02.SumАnArray.dll
+D:\Иван\GitHub\Programming-QA-September-2023-SoftUni\ProgrammingFundamentalsAndUnitTesting\16.Arrays\02.SumАnArray\obj\Debug\net6.0\refint\02.SumАnArray.dll
+D:\Иван\GitHub\Programming-QA-September-2023-SoftUni\ProgrammingFundamentalsAndUnitTesting\16.Arrays\02.SumАnArray\obj\Debug\net6.0\02.SumАnArray.pdb
+D:\Иван\GitHub\Programming-QA-September-2023-SoftUni\ProgrammingFundamentalsAndUnitTesting\16.Arrays\02.SumАnArray\obj\Debug\net6.0\02.SumАnArray.genruntimeconfig.cache
+D:\Иван\GitHub\Programming-QA-September-2023-SoftUni\ProgrammingFundamentalsAndUnitTesting\16.Arrays\02.SumАnArray\obj\Debug\net6.0\ref\02.SumАnArray.dll
