@@ -1,0 +1,14 @@
+D:\Иван\GitHub\Programming-QA-September-2023-SoftUni\ProgrammingFundamentalsAndUnitTesting\18.ExerciseArraysAndLists\02.CondenseArrayToNumber\bin\Debug\net6.0\02.CondenseArrayToNumber.exe
+D:\Иван\GitHub\Programming-QA-September-2023-SoftUni\ProgrammingFundamentalsAndUnitTesting\18.ExerciseArraysAndLists\02.CondenseArrayToNumber\bin\Debug\net6.0\02.CondenseArrayToNumber.deps.json
+D:\Иван\GitHub\Programming-QA-September-2023-SoftUni\ProgrammingFundamentalsAndUnitTesting\18.ExerciseArraysAndLists\02.CondenseArrayToNumber\bin\Debug\net6.0\02.CondenseArrayToNumber.runtimeconfig.json
+D:\Иван\GitHub\Programming-QA-September-2023-SoftUni\ProgrammingFundamentalsAndUnitTesting\18.ExerciseArraysAndLists\02.CondenseArrayToNumber\bin\Debug\net6.0\02.CondenseArrayToNumber.dll
+D:\Иван\GitHub\Programming-QA-September-2023-SoftUni\ProgrammingFundamentalsAndUnitTesting\18.ExerciseArraysAndLists\02.CondenseArrayToNumber\bin\Debug\net6.0\02.CondenseArrayToNumber.pdb
+D:\Иван\GitHub\Programming-QA-September-2023-SoftUni\ProgrammingFundamentalsAndUnitTesting\18.ExerciseArraysAndLists\02.CondenseArrayToNumber\obj\Debug\net6.0\02.CondenseArrayToNumber.GeneratedMSBuildEditorConfig.editorconfig
+D:\Иван\GitHub\Programming-QA-September-2023-SoftUni\ProgrammingFundamentalsAndUnitTesting\18.ExerciseArraysAndLists\02.CondenseArrayToNumber\obj\Debug\net6.0\02.CondenseArrayToNumber.AssemblyInfoInputs.cache
+D:\Иван\GitHub\Programming-QA-September-2023-SoftUni\ProgrammingFundamentalsAndUnitTesting\18.ExerciseArraysAndLists\02.CondenseArrayToNumber\obj\Debug\net6.0\02.CondenseArrayToNumber.AssemblyInfo.cs
+D:\Иван\GitHub\Programming-QA-September-2023-SoftUni\ProgrammingFundamentalsAndUnitTesting\18.ExerciseArraysAndLists\02.CondenseArrayToNumber\obj\Debug\net6.0\02.CondenseArrayToNumber.csproj.CoreCompileInputs.cache
+D:\Иван\GitHub\Programming-QA-September-2023-SoftUni\ProgrammingFundamentalsAndUnitTesting\18.ExerciseArraysAndLists\02.CondenseArrayToNumber\obj\Debug\net6.0\02.CondenseArrayToNumber.dll
+D:\Иван\GitHub\Programming-QA-September-2023-SoftUni\ProgrammingFundamentalsAndUnitTesting\18.ExerciseArraysAndLists\02.CondenseArrayToNumber\obj\Debug\net6.0\refint\02.CondenseArrayToNumber.dll
+D:\Иван\GitHub\Programming-QA-September-2023-SoftUni\ProgrammingFundamentalsAndUnitTesting\18.ExerciseArraysAndLists\02.CondenseArrayToNumber\obj\Debug\net6.0\02.CondenseArrayToNumber.pdb
+D:\Иван\GitHub\Programming-QA-September-2023-SoftUni\ProgrammingFundamentalsAndUnitTesting\18.ExerciseArraysAndLists\02.CondenseArrayToNumber\obj\Debug\net6.0\02.CondenseArrayToNumber.genruntimeconfig.cache
+D:\Иван\GitHub\Programming-QA-September-2023-SoftUni\ProgrammingFundamentalsAndUnitTesting\18.ExerciseArraysAndLists\02.CondenseArrayToNumber\obj\Debug\net6.0\ref\02.CondenseArrayToNumber.dll
