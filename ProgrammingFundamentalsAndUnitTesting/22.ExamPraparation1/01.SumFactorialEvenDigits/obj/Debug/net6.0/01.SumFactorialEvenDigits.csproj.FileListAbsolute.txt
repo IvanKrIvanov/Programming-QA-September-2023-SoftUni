@@ -1,0 +1,14 @@
+D:\Иван\GitHub\Programming-QA-September-2023-SoftUni\ProgrammingFundamentalsAndUnitTesting\22.ExamPraparation1\01.SumFactorialEvenDigits\bin\Debug\net6.0\01.SumFactorialEvenDigits.exe
+D:\Иван\GitHub\Programming-QA-September-2023-SoftUni\ProgrammingFundamentalsAndUnitTesting\22.ExamPraparation1\01.SumFactorialEvenDigits\bin\Debug\net6.0\01.SumFactorialEvenDigits.deps.json
+D:\Иван\GitHub\Programming-QA-September-2023-SoftUni\ProgrammingFundamentalsAndUnitTesting\22.ExamPraparation1\01.SumFactorialEvenDigits\bin\Debug\net6.0\01.SumFactorialEvenDigits.runtimeconfig.json
+D:\Иван\GitHub\Programming-QA-September-2023-SoftUni\ProgrammingFundamentalsAndUnitTesting\22.ExamPraparation1\01.SumFactorialEvenDigits\bin\Debug\net6.0\01.SumFactorialEvenDigits.dll
+D:\Иван\GitHub\Programming-QA-September-2023-SoftUni\ProgrammingFundamentalsAndUnitTesting\22.ExamPraparation1\01.SumFactorialEvenDigits\bin\Debug\net6.0\01.SumFactorialEvenDigits.pdb
+D:\Иван\GitHub\Programming-QA-September-2023-SoftUni\ProgrammingFundamentalsAndUnitTesting\22.ExamPraparation1\01.SumFactorialEvenDigits\obj\Debug\net6.0\01.SumFactorialEvenDigits.GeneratedMSBuildEditorConfig.editorconfig
+D:\Иван\GitHub\Programming-QA-September-2023-SoftUni\ProgrammingFundamentalsAndUnitTesting\22.ExamPraparation1\01.SumFactorialEvenDigits\obj\Debug\net6.0\01.SumFactorialEvenDigits.AssemblyInfoInputs.cache
+D:\Иван\GitHub\Programming-QA-September-2023-SoftUni\ProgrammingFundamentalsAndUnitTesting\22.ExamPraparation1\01.SumFactorialEvenDigits\obj\Debug\net6.0\01.SumFactorialEvenDigits.AssemblyInfo.cs
+D:\Иван\GitHub\Programming-QA-September-2023-SoftUni\ProgrammingFundamentalsAndUnitTesting\22.ExamPraparation1\01.SumFactorialEvenDigits\obj\Debug\net6.0\01.SumFactorialEvenDigits.csproj.CoreCompileInputs.cache
+D:\Иван\GitHub\Programming-QA-September-2023-SoftUni\ProgrammingFundamentalsAndUnitTesting\22.ExamPraparation1\01.SumFactorialEvenDigits\obj\Debug\net6.0\01.SumFactorialEvenDigits.dll
+D:\Иван\GitHub\Programming-QA-September-2023-SoftUni\ProgrammingFundamentalsAndUnitTesting\22.ExamPraparation1\01.SumFactorialEvenDigits\obj\Debug\net6.0\refint\01.SumFactorialEvenDigits.dll
+D:\Иван\GitHub\Programming-QA-September-2023-SoftUni\ProgrammingFundamentalsAndUnitTesting\22.ExamPraparation1\01.SumFactorialEvenDigits\obj\Debug\net6.0\01.SumFactorialEvenDigits.pdb
+D:\Иван\GitHub\Programming-QA-September-2023-SoftUni\ProgrammingFundamentalsAndUnitTesting\22.ExamPraparation1\01.SumFactorialEvenDigits\obj\Debug\net6.0\01.SumFactorialEvenDigits.genruntimeconfig.cache
+D:\Иван\GitHub\Programming-QA-September-2023-SoftUni\ProgrammingFundamentalsAndUnitTesting\22.ExamPraparation1\01.SumFactorialEvenDigits\obj\Debug\net6.0\ref\01.SumFactorialEvenDigits.dll
