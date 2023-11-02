@@ -1,0 +1,11 @@
+D:\Иван\GitHub\Programming-QA-September-2023-SoftUni\ProgrammingFundamentalsAndUnitTesting\24.ExamPreparation3\UnitTest\03-Extract-File-Resources\TestApp\bin\Debug\net6.0\TestApp.deps.json
+D:\Иван\GitHub\Programming-QA-September-2023-SoftUni\ProgrammingFundamentalsAndUnitTesting\24.ExamPreparation3\UnitTest\03-Extract-File-Resources\TestApp\bin\Debug\net6.0\TestApp.dll
+D:\Иван\GitHub\Programming-QA-September-2023-SoftUni\ProgrammingFundamentalsAndUnitTesting\24.ExamPreparation3\UnitTest\03-Extract-File-Resources\TestApp\bin\Debug\net6.0\TestApp.pdb
+D:\Иван\GitHub\Programming-QA-September-2023-SoftUni\ProgrammingFundamentalsAndUnitTesting\24.ExamPreparation3\UnitTest\03-Extract-File-Resources\TestApp\obj\Debug\net6.0\TestApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Иван\GitHub\Programming-QA-September-2023-SoftUni\ProgrammingFundamentalsAndUnitTesting\24.ExamPreparation3\UnitTest\03-Extract-File-Resources\TestApp\obj\Debug\net6.0\TestApp.AssemblyInfoInputs.cache
+D:\Иван\GitHub\Programming-QA-September-2023-SoftUni\ProgrammingFundamentalsAndUnitTesting\24.ExamPreparation3\UnitTest\03-Extract-File-Resources\TestApp\obj\Debug\net6.0\TestApp.AssemblyInfo.cs
+D:\Иван\GitHub\Programming-QA-September-2023-SoftUni\ProgrammingFundamentalsAndUnitTesting\24.ExamPreparation3\UnitTest\03-Extract-File-Resources\TestApp\obj\Debug\net6.0\TestApp.csproj.CoreCompileInputs.cache
+D:\Иван\GitHub\Programming-QA-September-2023-SoftUni\ProgrammingFundamentalsAndUnitTesting\24.ExamPreparation3\UnitTest\03-Extract-File-Resources\TestApp\obj\Debug\net6.0\TestApp.dll
+D:\Иван\GitHub\Programming-QA-September-2023-SoftUni\ProgrammingFundamentalsAndUnitTesting\24.ExamPreparation3\UnitTest\03-Extract-File-Resources\TestApp\obj\Debug\net6.0\refint\TestApp.dll
+D:\Иван\GitHub\Programming-QA-September-2023-SoftUni\ProgrammingFundamentalsAndUnitTesting\24.ExamPreparation3\UnitTest\03-Extract-File-Resources\TestApp\obj\Debug\net6.0\TestApp.pdb
+D:\Иван\GitHub\Programming-QA-September-2023-SoftUni\ProgrammingFundamentalsAndUnitTesting\24.ExamPreparation3\UnitTest\03-Extract-File-Resources\TestApp\obj\Debug\net6.0\ref\TestApp.dll

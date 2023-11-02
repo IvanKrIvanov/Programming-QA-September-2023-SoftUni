@@ -1,0 +1,14 @@
+D:\Иван\GitHub\Programming-QA-September-2023-SoftUni\ProgrammingFundamentalsAndUnitTesting\24.ExamPreparation3\01.EnglishNameОfEachDigit\bin\Debug\net6.0\01.EnglishNameОfEachDigit.exe
+D:\Иван\GitHub\Programming-QA-September-2023-SoftUni\ProgrammingFundamentalsAndUnitTesting\24.ExamPreparation3\01.EnglishNameОfEachDigit\bin\Debug\net6.0\01.EnglishNameОfEachDigit.deps.json
+D:\Иван\GitHub\Programming-QA-September-2023-SoftUni\ProgrammingFundamentalsAndUnitTesting\24.ExamPreparation3\01.EnglishNameОfEachDigit\bin\Debug\net6.0\01.EnglishNameОfEachDigit.runtimeconfig.json
+D:\Иван\GitHub\Programming-QA-September-2023-SoftUni\ProgrammingFundamentalsAndUnitTesting\24.ExamPreparation3\01.EnglishNameОfEachDigit\bin\Debug\net6.0\01.EnglishNameОfEachDigit.dll
+D:\Иван\GitHub\Programming-QA-September-2023-SoftUni\ProgrammingFundamentalsAndUnitTesting\24.ExamPreparation3\01.EnglishNameОfEachDigit\bin\Debug\net6.0\01.EnglishNameОfEachDigit.pdb
+D:\Иван\GitHub\Programming-QA-September-2023-SoftUni\ProgrammingFundamentalsAndUnitTesting\24.ExamPreparation3\01.EnglishNameОfEachDigit\obj\Debug\net6.0\01.EnglishNameОfEachDigit.GeneratedMSBuildEditorConfig.editorconfig
+D:\Иван\GitHub\Programming-QA-September-2023-SoftUni\ProgrammingFundamentalsAndUnitTesting\24.ExamPreparation3\01.EnglishNameОfEachDigit\obj\Debug\net6.0\01.EnglishNameОfEachDigit.AssemblyInfoInputs.cache
+D:\Иван\GitHub\Programming-QA-September-2023-SoftUni\ProgrammingFundamentalsAndUnitTesting\24.ExamPreparation3\01.EnglishNameОfEachDigit\obj\Debug\net6.0\01.EnglishNameОfEachDigit.AssemblyInfo.cs
+D:\Иван\GitHub\Programming-QA-September-2023-SoftUni\ProgrammingFundamentalsAndUnitTesting\24.ExamPreparation3\01.EnglishNameОfEachDigit\obj\Debug\net6.0\01.EnglishNameОfEachDigit.csproj.CoreCompileInputs.cache
+D:\Иван\GitHub\Programming-QA-September-2023-SoftUni\ProgrammingFundamentalsAndUnitTesting\24.ExamPreparation3\01.EnglishNameОfEachDigit\obj\Debug\net6.0\01.EnglishNameОfEachDigit.dll
+D:\Иван\GitHub\Programming-QA-September-2023-SoftUni\ProgrammingFundamentalsAndUnitTesting\24.ExamPreparation3\01.EnglishNameОfEachDigit\obj\Debug\net6.0\refint\01.EnglishNameОfEachDigit.dll
+D:\Иван\GitHub\Programming-QA-September-2023-SoftUni\ProgrammingFundamentalsAndUnitTesting\24.ExamPreparation3\01.EnglishNameОfEachDigit\obj\Debug\net6.0\01.EnglishNameОfEachDigit.pdb
+D:\Иван\GitHub\Programming-QA-September-2023-SoftUni\ProgrammingFundamentalsAndUnitTesting\24.ExamPreparation3\01.EnglishNameОfEachDigit\obj\Debug\net6.0\01.EnglishNameОfEachDigit.genruntimeconfig.cache
+D:\Иван\GitHub\Programming-QA-September-2023-SoftUni\ProgrammingFundamentalsAndUnitTesting\24.ExamPreparation3\01.EnglishNameОfEachDigit\obj\Debug\net6.0\ref\01.EnglishNameОfEachDigit.dll
