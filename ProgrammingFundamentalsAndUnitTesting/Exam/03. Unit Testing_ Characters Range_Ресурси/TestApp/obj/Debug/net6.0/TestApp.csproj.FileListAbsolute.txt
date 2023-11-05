@@ -1,0 +1,11 @@
+D:\Иван\QA SoftUni\Programming for QA\Programming Fundamentals and Unit Testing\25.Exam\03. Unit Testing_ Characters Range_Ресурси\TestApp\bin\Debug\net6.0\TestApp.deps.json
+D:\Иван\QA SoftUni\Programming for QA\Programming Fundamentals and Unit Testing\25.Exam\03. Unit Testing_ Characters Range_Ресурси\TestApp\bin\Debug\net6.0\TestApp.dll
+D:\Иван\QA SoftUni\Programming for QA\Programming Fundamentals and Unit Testing\25.Exam\03. Unit Testing_ Characters Range_Ресурси\TestApp\bin\Debug\net6.0\TestApp.pdb
+D:\Иван\QA SoftUni\Programming for QA\Programming Fundamentals and Unit Testing\25.Exam\03. Unit Testing_ Characters Range_Ресурси\TestApp\obj\Debug\net6.0\TestApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Иван\QA SoftUni\Programming for QA\Programming Fundamentals and Unit Testing\25.Exam\03. Unit Testing_ Characters Range_Ресурси\TestApp\obj\Debug\net6.0\TestApp.AssemblyInfoInputs.cache
+D:\Иван\QA SoftUni\Programming for QA\Programming Fundamentals and Unit Testing\25.Exam\03. Unit Testing_ Characters Range_Ресурси\TestApp\obj\Debug\net6.0\TestApp.AssemblyInfo.cs
+D:\Иван\QA SoftUni\Programming for QA\Programming Fundamentals and Unit Testing\25.Exam\03. Unit Testing_ Characters Range_Ресурси\TestApp\obj\Debug\net6.0\TestApp.csproj.CoreCompileInputs.cache
+D:\Иван\QA SoftUni\Programming for QA\Programming Fundamentals and Unit Testing\25.Exam\03. Unit Testing_ Characters Range_Ресурси\TestApp\obj\Debug\net6.0\TestApp.dll
+D:\Иван\QA SoftUni\Programming for QA\Programming Fundamentals and Unit Testing\25.Exam\03. Unit Testing_ Characters Range_Ресурси\TestApp\obj\Debug\net6.0\refint\TestApp.dll
+D:\Иван\QA SoftUni\Programming for QA\Programming Fundamentals and Unit Testing\25.Exam\03. Unit Testing_ Characters Range_Ресурси\TestApp\obj\Debug\net6.0\TestApp.pdb
+D:\Иван\QA SoftUni\Programming for QA\Programming Fundamentals and Unit Testing\25.Exam\03. Unit Testing_ Characters Range_Ресурси\TestApp\obj\Debug\net6.0\ref\TestApp.dll

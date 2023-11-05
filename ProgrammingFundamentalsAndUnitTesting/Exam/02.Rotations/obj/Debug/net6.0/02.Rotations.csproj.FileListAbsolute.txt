@@ -1,0 +1,14 @@
+D:\Иван\GitHub\Programming-QA-September-2023-SoftUni\ProgrammingFundamentalsAndUnitTesting\Exam\02.Rotations\bin\Debug\net6.0\02.Rotations.exe
+D:\Иван\GitHub\Programming-QA-September-2023-SoftUni\ProgrammingFundamentalsAndUnitTesting\Exam\02.Rotations\bin\Debug\net6.0\02.Rotations.deps.json
+D:\Иван\GitHub\Programming-QA-September-2023-SoftUni\ProgrammingFundamentalsAndUnitTesting\Exam\02.Rotations\bin\Debug\net6.0\02.Rotations.runtimeconfig.json
+D:\Иван\GitHub\Programming-QA-September-2023-SoftUni\ProgrammingFundamentalsAndUnitTesting\Exam\02.Rotations\bin\Debug\net6.0\02.Rotations.dll
+D:\Иван\GitHub\Programming-QA-September-2023-SoftUni\ProgrammingFundamentalsAndUnitTesting\Exam\02.Rotations\bin\Debug\net6.0\02.Rotations.pdb
+D:\Иван\GitHub\Programming-QA-September-2023-SoftUni\ProgrammingFundamentalsAndUnitTesting\Exam\02.Rotations\obj\Debug\net6.0\02.Rotations.GeneratedMSBuildEditorConfig.editorconfig
+D:\Иван\GitHub\Programming-QA-September-2023-SoftUni\ProgrammingFundamentalsAndUnitTesting\Exam\02.Rotations\obj\Debug\net6.0\02.Rotations.AssemblyInfoInputs.cache
+D:\Иван\GitHub\Programming-QA-September-2023-SoftUni\ProgrammingFundamentalsAndUnitTesting\Exam\02.Rotations\obj\Debug\net6.0\02.Rotations.AssemblyInfo.cs
+D:\Иван\GitHub\Programming-QA-September-2023-SoftUni\ProgrammingFundamentalsAndUnitTesting\Exam\02.Rotations\obj\Debug\net6.0\02.Rotations.csproj.CoreCompileInputs.cache
+D:\Иван\GitHub\Programming-QA-September-2023-SoftUni\ProgrammingFundamentalsAndUnitTesting\Exam\02.Rotations\obj\Debug\net6.0\02.Rotations.dll
+D:\Иван\GitHub\Programming-QA-September-2023-SoftUni\ProgrammingFundamentalsAndUnitTesting\Exam\02.Rotations\obj\Debug\net6.0\refint\02.Rotations.dll
+D:\Иван\GitHub\Programming-QA-September-2023-SoftUni\ProgrammingFundamentalsAndUnitTesting\Exam\02.Rotations\obj\Debug\net6.0\02.Rotations.pdb
+D:\Иван\GitHub\Programming-QA-September-2023-SoftUni\ProgrammingFundamentalsAndUnitTesting\Exam\02.Rotations\obj\Debug\net6.0\02.Rotations.genruntimeconfig.cache
+D:\Иван\GitHub\Programming-QA-September-2023-SoftUni\ProgrammingFundamentalsAndUnitTesting\Exam\02.Rotations\obj\Debug\net6.0\ref\02.Rotations.dll
