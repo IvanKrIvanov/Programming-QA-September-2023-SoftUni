@@ -1,0 +1,14 @@
+D:\Иван\GitHub\Programming-QA-September-2023-SoftUni\ProgrammingAdvancedForQA\01.StringsAndTextProcessing\03.Substring\bin\Debug\net6.0\03.Substring.exe
+D:\Иван\GitHub\Programming-QA-September-2023-SoftUni\ProgrammingAdvancedForQA\01.StringsAndTextProcessing\03.Substring\bin\Debug\net6.0\03.Substring.deps.json
+D:\Иван\GitHub\Programming-QA-September-2023-SoftUni\ProgrammingAdvancedForQA\01.StringsAndTextProcessing\03.Substring\bin\Debug\net6.0\03.Substring.runtimeconfig.json
+D:\Иван\GitHub\Programming-QA-September-2023-SoftUni\ProgrammingAdvancedForQA\01.StringsAndTextProcessing\03.Substring\bin\Debug\net6.0\03.Substring.dll
+D:\Иван\GitHub\Programming-QA-September-2023-SoftUni\ProgrammingAdvancedForQA\01.StringsAndTextProcessing\03.Substring\bin\Debug\net6.0\03.Substring.pdb
+D:\Иван\GitHub\Programming-QA-September-2023-SoftUni\ProgrammingAdvancedForQA\01.StringsAndTextProcessing\03.Substring\obj\Debug\net6.0\03.Substring.GeneratedMSBuildEditorConfig.editorconfig
+D:\Иван\GitHub\Programming-QA-September-2023-SoftUni\ProgrammingAdvancedForQA\01.StringsAndTextProcessing\03.Substring\obj\Debug\net6.0\03.Substring.AssemblyInfoInputs.cache
+D:\Иван\GitHub\Programming-QA-September-2023-SoftUni\ProgrammingAdvancedForQA\01.StringsAndTextProcessing\03.Substring\obj\Debug\net6.0\03.Substring.AssemblyInfo.cs
+D:\Иван\GitHub\Programming-QA-September-2023-SoftUni\ProgrammingAdvancedForQA\01.StringsAndTextProcessing\03.Substring\obj\Debug\net6.0\03.Substring.csproj.CoreCompileInputs.cache
+D:\Иван\GitHub\Programming-QA-September-2023-SoftUni\ProgrammingAdvancedForQA\01.StringsAndTextProcessing\03.Substring\obj\Debug\net6.0\03.Substring.dll
+D:\Иван\GitHub\Programming-QA-September-2023-SoftUni\ProgrammingAdvancedForQA\01.StringsAndTextProcessing\03.Substring\obj\Debug\net6.0\refint\03.Substring.dll
+D:\Иван\GitHub\Programming-QA-September-2023-SoftUni\ProgrammingAdvancedForQA\01.StringsAndTextProcessing\03.Substring\obj\Debug\net6.0\03.Substring.pdb
+D:\Иван\GitHub\Programming-QA-September-2023-SoftUni\ProgrammingAdvancedForQA\01.StringsAndTextProcessing\03.Substring\obj\Debug\net6.0\03.Substring.genruntimeconfig.cache
+D:\Иван\GitHub\Programming-QA-September-2023-SoftUni\ProgrammingAdvancedForQA\01.StringsAndTextProcessing\03.Substring\obj\Debug\net6.0\ref\03.Substring.dll

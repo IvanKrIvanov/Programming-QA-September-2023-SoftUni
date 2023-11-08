@@ -1,0 +1,14 @@
+D:\Иван\GitHub\Programming-QA-September-2023-SoftUni\ProgrammingAdvancedForQA\01.StringsAndTextProcessing\04.TextFilter\bin\Debug\net6.0\04.TextFilter.exe
+D:\Иван\GitHub\Programming-QA-September-2023-SoftUni\ProgrammingAdvancedForQA\01.StringsAndTextProcessing\04.TextFilter\bin\Debug\net6.0\04.TextFilter.deps.json
+D:\Иван\GitHub\Programming-QA-September-2023-SoftUni\ProgrammingAdvancedForQA\01.StringsAndTextProcessing\04.TextFilter\bin\Debug\net6.0\04.TextFilter.runtimeconfig.json
+D:\Иван\GitHub\Programming-QA-September-2023-SoftUni\ProgrammingAdvancedForQA\01.StringsAndTextProcessing\04.TextFilter\bin\Debug\net6.0\04.TextFilter.dll
+D:\Иван\GitHub\Programming-QA-September-2023-SoftUni\ProgrammingAdvancedForQA\01.StringsAndTextProcessing\04.TextFilter\bin\Debug\net6.0\04.TextFilter.pdb
+D:\Иван\GitHub\Programming-QA-September-2023-SoftUni\ProgrammingAdvancedForQA\01.StringsAndTextProcessing\04.TextFilter\obj\Debug\net6.0\04.TextFilter.GeneratedMSBuildEditorConfig.editorconfig
+D:\Иван\GitHub\Programming-QA-September-2023-SoftUni\ProgrammingAdvancedForQA\01.StringsAndTextProcessing\04.TextFilter\obj\Debug\net6.0\04.TextFilter.AssemblyInfoInputs.cache
+D:\Иван\GitHub\Programming-QA-September-2023-SoftUni\ProgrammingAdvancedForQA\01.StringsAndTextProcessing\04.TextFilter\obj\Debug\net6.0\04.TextFilter.AssemblyInfo.cs
+D:\Иван\GitHub\Programming-QA-September-2023-SoftUni\ProgrammingAdvancedForQA\01.StringsAndTextProcessing\04.TextFilter\obj\Debug\net6.0\04.TextFilter.csproj.CoreCompileInputs.cache
+D:\Иван\GitHub\Programming-QA-September-2023-SoftUni\ProgrammingAdvancedForQA\01.StringsAndTextProcessing\04.TextFilter\obj\Debug\net6.0\04.TextFilter.dll
+D:\Иван\GitHub\Programming-QA-September-2023-SoftUni\ProgrammingAdvancedForQA\01.StringsAndTextProcessing\04.TextFilter\obj\Debug\net6.0\refint\04.TextFilter.dll
+D:\Иван\GitHub\Programming-QA-September-2023-SoftUni\ProgrammingAdvancedForQA\01.StringsAndTextProcessing\04.TextFilter\obj\Debug\net6.0\04.TextFilter.pdb
+D:\Иван\GitHub\Programming-QA-September-2023-SoftUni\ProgrammingAdvancedForQA\01.StringsAndTextProcessing\04.TextFilter\obj\Debug\net6.0\04.TextFilter.genruntimeconfig.cache
+D:\Иван\GitHub\Programming-QA-September-2023-SoftUni\ProgrammingAdvancedForQA\01.StringsAndTextProcessing\04.TextFilter\obj\Debug\net6.0\ref\04.TextFilter.dll

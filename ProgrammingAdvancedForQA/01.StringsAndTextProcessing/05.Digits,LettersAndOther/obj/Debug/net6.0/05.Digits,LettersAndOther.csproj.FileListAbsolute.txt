@@ -1,0 +1,14 @@
+D:\Иван\GitHub\Programming-QA-September-2023-SoftUni\ProgrammingAdvancedForQA\01.StringsAndTextProcessing\05.Digits,LettersAndOther\bin\Debug\net6.0\05.Digits,LettersAndOther.exe
+D:\Иван\GitHub\Programming-QA-September-2023-SoftUni\ProgrammingAdvancedForQA\01.StringsAndTextProcessing\05.Digits,LettersAndOther\bin\Debug\net6.0\05.Digits,LettersAndOther.deps.json
+D:\Иван\GitHub\Programming-QA-September-2023-SoftUni\ProgrammingAdvancedForQA\01.StringsAndTextProcessing\05.Digits,LettersAndOther\bin\Debug\net6.0\05.Digits,LettersAndOther.runtimeconfig.json
+D:\Иван\GitHub\Programming-QA-September-2023-SoftUni\ProgrammingAdvancedForQA\01.StringsAndTextProcessing\05.Digits,LettersAndOther\bin\Debug\net6.0\05.Digits,LettersAndOther.dll
+D:\Иван\GitHub\Programming-QA-September-2023-SoftUni\ProgrammingAdvancedForQA\01.StringsAndTextProcessing\05.Digits,LettersAndOther\bin\Debug\net6.0\05.Digits,LettersAndOther.pdb
+D:\Иван\GitHub\Programming-QA-September-2023-SoftUni\ProgrammingAdvancedForQA\01.StringsAndTextProcessing\05.Digits,LettersAndOther\obj\Debug\net6.0\05.Digits,LettersAndOther.GeneratedMSBuildEditorConfig.editorconfig
+D:\Иван\GitHub\Programming-QA-September-2023-SoftUni\ProgrammingAdvancedForQA\01.StringsAndTextProcessing\05.Digits,LettersAndOther\obj\Debug\net6.0\05.Digits,LettersAndOther.AssemblyInfoInputs.cache
+D:\Иван\GitHub\Programming-QA-September-2023-SoftUni\ProgrammingAdvancedForQA\01.StringsAndTextProcessing\05.Digits,LettersAndOther\obj\Debug\net6.0\05.Digits,LettersAndOther.AssemblyInfo.cs
+D:\Иван\GitHub\Programming-QA-September-2023-SoftUni\ProgrammingAdvancedForQA\01.StringsAndTextProcessing\05.Digits,LettersAndOther\obj\Debug\net6.0\05.Digits,LettersAndOther.csproj.CoreCompileInputs.cache
+D:\Иван\GitHub\Programming-QA-September-2023-SoftUni\ProgrammingAdvancedForQA\01.StringsAndTextProcessing\05.Digits,LettersAndOther\obj\Debug\net6.0\05.Digits,LettersAndOther.dll
+D:\Иван\GitHub\Programming-QA-September-2023-SoftUni\ProgrammingAdvancedForQA\01.StringsAndTextProcessing\05.Digits,LettersAndOther\obj\Debug\net6.0\refint\05.Digits,LettersAndOther.dll
+D:\Иван\GitHub\Programming-QA-September-2023-SoftUni\ProgrammingAdvancedForQA\01.StringsAndTextProcessing\05.Digits,LettersAndOther\obj\Debug\net6.0\05.Digits,LettersAndOther.pdb
+D:\Иван\GitHub\Programming-QA-September-2023-SoftUni\ProgrammingAdvancedForQA\01.StringsAndTextProcessing\05.Digits,LettersAndOther\obj\Debug\net6.0\05.Digits,LettersAndOther.genruntimeconfig.cache
+D:\Иван\GitHub\Programming-QA-September-2023-SoftUni\ProgrammingAdvancedForQA\01.StringsAndTextProcessing\05.Digits,LettersAndOther\obj\Debug\net6.0\ref\05.Digits,LettersAndOther.dll

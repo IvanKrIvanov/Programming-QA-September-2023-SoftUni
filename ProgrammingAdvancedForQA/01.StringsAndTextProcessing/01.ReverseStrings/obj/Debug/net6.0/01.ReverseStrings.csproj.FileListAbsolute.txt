@@ -1,0 +1,14 @@
+D:\Иван\GitHub\Programming-QA-September-2023-SoftUni\ProgrammingAdvancedForQA\01.StringsAndTextProcessing\01.ReverseStrings\bin\Debug\net6.0\01.ReverseStrings.exe
+D:\Иван\GitHub\Programming-QA-September-2023-SoftUni\ProgrammingAdvancedForQA\01.StringsAndTextProcessing\01.ReverseStrings\bin\Debug\net6.0\01.ReverseStrings.deps.json
+D:\Иван\GitHub\Programming-QA-September-2023-SoftUni\ProgrammingAdvancedForQA\01.StringsAndTextProcessing\01.ReverseStrings\bin\Debug\net6.0\01.ReverseStrings.runtimeconfig.json
+D:\Иван\GitHub\Programming-QA-September-2023-SoftUni\ProgrammingAdvancedForQA\01.StringsAndTextProcessing\01.ReverseStrings\bin\Debug\net6.0\01.ReverseStrings.dll
+D:\Иван\GitHub\Programming-QA-September-2023-SoftUni\ProgrammingAdvancedForQA\01.StringsAndTextProcessing\01.ReverseStrings\bin\Debug\net6.0\01.ReverseStrings.pdb
+D:\Иван\GitHub\Programming-QA-September-2023-SoftUni\ProgrammingAdvancedForQA\01.StringsAndTextProcessing\01.ReverseStrings\obj\Debug\net6.0\01.ReverseStrings.GeneratedMSBuildEditorConfig.editorconfig
+D:\Иван\GitHub\Programming-QA-September-2023-SoftUni\ProgrammingAdvancedForQA\01.StringsAndTextProcessing\01.ReverseStrings\obj\Debug\net6.0\01.ReverseStrings.AssemblyInfoInputs.cache
+D:\Иван\GitHub\Programming-QA-September-2023-SoftUni\ProgrammingAdvancedForQA\01.StringsAndTextProcessing\01.ReverseStrings\obj\Debug\net6.0\01.ReverseStrings.AssemblyInfo.cs
+D:\Иван\GitHub\Programming-QA-September-2023-SoftUni\ProgrammingAdvancedForQA\01.StringsAndTextProcessing\01.ReverseStrings\obj\Debug\net6.0\01.ReverseStrings.csproj.CoreCompileInputs.cache
+D:\Иван\GitHub\Programming-QA-September-2023-SoftUni\ProgrammingAdvancedForQA\01.StringsAndTextProcessing\01.ReverseStrings\obj\Debug\net6.0\01.ReverseStrings.dll
+D:\Иван\GitHub\Programming-QA-September-2023-SoftUni\ProgrammingAdvancedForQA\01.StringsAndTextProcessing\01.ReverseStrings\obj\Debug\net6.0\refint\01.ReverseStrings.dll
+D:\Иван\GitHub\Programming-QA-September-2023-SoftUni\ProgrammingAdvancedForQA\01.StringsAndTextProcessing\01.ReverseStrings\obj\Debug\net6.0\01.ReverseStrings.pdb
+D:\Иван\GitHub\Programming-QA-September-2023-SoftUni\ProgrammingAdvancedForQA\01.StringsAndTextProcessing\01.ReverseStrings\obj\Debug\net6.0\01.ReverseStrings.genruntimeconfig.cache
+D:\Иван\GitHub\Programming-QA-September-2023-SoftUni\ProgrammingAdvancedForQA\01.StringsAndTextProcessing\01.ReverseStrings\obj\Debug\net6.0\ref\01.ReverseStrings.dll

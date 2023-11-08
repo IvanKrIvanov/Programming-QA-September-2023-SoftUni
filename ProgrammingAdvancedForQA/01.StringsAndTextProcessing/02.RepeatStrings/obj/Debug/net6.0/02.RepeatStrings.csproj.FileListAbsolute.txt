@@ -1,0 +1,14 @@
+D:\Иван\GitHub\Programming-QA-September-2023-SoftUni\ProgrammingAdvancedForQA\01.StringsAndTextProcessing\02.RepeatStrings\bin\Debug\net6.0\02.RepeatStrings.exe
+D:\Иван\GitHub\Programming-QA-September-2023-SoftUni\ProgrammingAdvancedForQA\01.StringsAndTextProcessing\02.RepeatStrings\bin\Debug\net6.0\02.RepeatStrings.deps.json
+D:\Иван\GitHub\Programming-QA-September-2023-SoftUni\ProgrammingAdvancedForQA\01.StringsAndTextProcessing\02.RepeatStrings\bin\Debug\net6.0\02.RepeatStrings.runtimeconfig.json
+D:\Иван\GitHub\Programming-QA-September-2023-SoftUni\ProgrammingAdvancedForQA\01.StringsAndTextProcessing\02.RepeatStrings\bin\Debug\net6.0\02.RepeatStrings.dll
+D:\Иван\GitHub\Programming-QA-September-2023-SoftUni\ProgrammingAdvancedForQA\01.StringsAndTextProcessing\02.RepeatStrings\bin\Debug\net6.0\02.RepeatStrings.pdb
+D:\Иван\GitHub\Programming-QA-September-2023-SoftUni\ProgrammingAdvancedForQA\01.StringsAndTextProcessing\02.RepeatStrings\obj\Debug\net6.0\02.RepeatStrings.GeneratedMSBuildEditorConfig.editorconfig
+D:\Иван\GitHub\Programming-QA-September-2023-SoftUni\ProgrammingAdvancedForQA\01.StringsAndTextProcessing\02.RepeatStrings\obj\Debug\net6.0\02.RepeatStrings.AssemblyInfoInputs.cache
+D:\Иван\GitHub\Programming-QA-September-2023-SoftUni\ProgrammingAdvancedForQA\01.StringsAndTextProcessing\02.RepeatStrings\obj\Debug\net6.0\02.RepeatStrings.AssemblyInfo.cs
+D:\Иван\GitHub\Programming-QA-September-2023-SoftUni\ProgrammingAdvancedForQA\01.StringsAndTextProcessing\02.RepeatStrings\obj\Debug\net6.0\02.RepeatStrings.csproj.CoreCompileInputs.cache
+D:\Иван\GitHub\Programming-QA-September-2023-SoftUni\ProgrammingAdvancedForQA\01.StringsAndTextProcessing\02.RepeatStrings\obj\Debug\net6.0\02.RepeatStrings.dll
+D:\Иван\GitHub\Programming-QA-September-2023-SoftUni\ProgrammingAdvancedForQA\01.StringsAndTextProcessing\02.RepeatStrings\obj\Debug\net6.0\refint\02.RepeatStrings.dll
+D:\Иван\GitHub\Programming-QA-September-2023-SoftUni\ProgrammingAdvancedForQA\01.StringsAndTextProcessing\02.RepeatStrings\obj\Debug\net6.0\02.RepeatStrings.pdb
+D:\Иван\GitHub\Programming-QA-September-2023-SoftUni\ProgrammingAdvancedForQA\01.StringsAndTextProcessing\02.RepeatStrings\obj\Debug\net6.0\02.RepeatStrings.genruntimeconfig.cache
+D:\Иван\GitHub\Programming-QA-September-2023-SoftUni\ProgrammingAdvancedForQA\01.StringsAndTextProcessing\02.RepeatStrings\obj\Debug\net6.0\ref\02.RepeatStrings.dll
