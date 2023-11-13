@@ -1,0 +1,14 @@
+D:\Иван\GitHub\Programming-QA-September-2023-SoftUni\ProgrammingAdvancedForQA\04.DictionariesLambdaАndLINQ\02.OddOccurrences\bin\Debug\net6.0\02.OddOccurrences.exe
+D:\Иван\GitHub\Programming-QA-September-2023-SoftUni\ProgrammingAdvancedForQA\04.DictionariesLambdaАndLINQ\02.OddOccurrences\bin\Debug\net6.0\02.OddOccurrences.deps.json
+D:\Иван\GitHub\Programming-QA-September-2023-SoftUni\ProgrammingAdvancedForQA\04.DictionariesLambdaАndLINQ\02.OddOccurrences\bin\Debug\net6.0\02.OddOccurrences.runtimeconfig.json
+D:\Иван\GitHub\Programming-QA-September-2023-SoftUni\ProgrammingAdvancedForQA\04.DictionariesLambdaАndLINQ\02.OddOccurrences\bin\Debug\net6.0\02.OddOccurrences.dll
+D:\Иван\GitHub\Programming-QA-September-2023-SoftUni\ProgrammingAdvancedForQA\04.DictionariesLambdaАndLINQ\02.OddOccurrences\bin\Debug\net6.0\02.OddOccurrences.pdb
+D:\Иван\GitHub\Programming-QA-September-2023-SoftUni\ProgrammingAdvancedForQA\04.DictionariesLambdaАndLINQ\02.OddOccurrences\obj\Debug\net6.0\02.OddOccurrences.GeneratedMSBuildEditorConfig.editorconfig
+D:\Иван\GitHub\Programming-QA-September-2023-SoftUni\ProgrammingAdvancedForQA\04.DictionariesLambdaАndLINQ\02.OddOccurrences\obj\Debug\net6.0\02.OddOccurrences.AssemblyInfoInputs.cache
+D:\Иван\GitHub\Programming-QA-September-2023-SoftUni\ProgrammingAdvancedForQA\04.DictionariesLambdaАndLINQ\02.OddOccurrences\obj\Debug\net6.0\02.OddOccurrences.AssemblyInfo.cs
+D:\Иван\GitHub\Programming-QA-September-2023-SoftUni\ProgrammingAdvancedForQA\04.DictionariesLambdaАndLINQ\02.OddOccurrences\obj\Debug\net6.0\02.OddOccurrences.csproj.CoreCompileInputs.cache
+D:\Иван\GitHub\Programming-QA-September-2023-SoftUni\ProgrammingAdvancedForQA\04.DictionariesLambdaАndLINQ\02.OddOccurrences\obj\Debug\net6.0\02.OddOccurrences.dll
+D:\Иван\GitHub\Programming-QA-September-2023-SoftUni\ProgrammingAdvancedForQA\04.DictionariesLambdaАndLINQ\02.OddOccurrences\obj\Debug\net6.0\refint\02.OddOccurrences.dll
+D:\Иван\GitHub\Programming-QA-September-2023-SoftUni\ProgrammingAdvancedForQA\04.DictionariesLambdaАndLINQ\02.OddOccurrences\obj\Debug\net6.0\02.OddOccurrences.pdb
+D:\Иван\GitHub\Programming-QA-September-2023-SoftUni\ProgrammingAdvancedForQA\04.DictionariesLambdaАndLINQ\02.OddOccurrences\obj\Debug\net6.0\02.OddOccurrences.genruntimeconfig.cache
+D:\Иван\GitHub\Programming-QA-September-2023-SoftUni\ProgrammingAdvancedForQA\04.DictionariesLambdaАndLINQ\02.OddOccurrences\obj\Debug\net6.0\ref\02.OddOccurrences.dll
