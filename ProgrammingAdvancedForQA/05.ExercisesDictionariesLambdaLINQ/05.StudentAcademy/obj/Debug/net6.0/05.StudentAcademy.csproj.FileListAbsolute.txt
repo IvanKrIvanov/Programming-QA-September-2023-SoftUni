@@ -1,0 +1,14 @@
+D:\Иван\GitHub\Programming-QA-September-2023-SoftUni\ProgrammingAdvancedForQA\05.ExercisesDictionariesLambdaLINQ\05.StudentAcademy\bin\Debug\net6.0\05.StudentAcademy.exe
+D:\Иван\GitHub\Programming-QA-September-2023-SoftUni\ProgrammingAdvancedForQA\05.ExercisesDictionariesLambdaLINQ\05.StudentAcademy\bin\Debug\net6.0\05.StudentAcademy.deps.json
+D:\Иван\GitHub\Programming-QA-September-2023-SoftUni\ProgrammingAdvancedForQA\05.ExercisesDictionariesLambdaLINQ\05.StudentAcademy\bin\Debug\net6.0\05.StudentAcademy.runtimeconfig.json
+D:\Иван\GitHub\Programming-QA-September-2023-SoftUni\ProgrammingAdvancedForQA\05.ExercisesDictionariesLambdaLINQ\05.StudentAcademy\bin\Debug\net6.0\05.StudentAcademy.dll
+D:\Иван\GitHub\Programming-QA-September-2023-SoftUni\ProgrammingAdvancedForQA\05.ExercisesDictionariesLambdaLINQ\05.StudentAcademy\bin\Debug\net6.0\05.StudentAcademy.pdb
+D:\Иван\GitHub\Programming-QA-September-2023-SoftUni\ProgrammingAdvancedForQA\05.ExercisesDictionariesLambdaLINQ\05.StudentAcademy\obj\Debug\net6.0\05.StudentAcademy.GeneratedMSBuildEditorConfig.editorconfig
+D:\Иван\GitHub\Programming-QA-September-2023-SoftUni\ProgrammingAdvancedForQA\05.ExercisesDictionariesLambdaLINQ\05.StudentAcademy\obj\Debug\net6.0\05.StudentAcademy.AssemblyInfoInputs.cache
+D:\Иван\GitHub\Programming-QA-September-2023-SoftUni\ProgrammingAdvancedForQA\05.ExercisesDictionariesLambdaLINQ\05.StudentAcademy\obj\Debug\net6.0\05.StudentAcademy.AssemblyInfo.cs
+D:\Иван\GitHub\Programming-QA-September-2023-SoftUni\ProgrammingAdvancedForQA\05.ExercisesDictionariesLambdaLINQ\05.StudentAcademy\obj\Debug\net6.0\05.StudentAcademy.csproj.CoreCompileInputs.cache
+D:\Иван\GitHub\Programming-QA-September-2023-SoftUni\ProgrammingAdvancedForQA\05.ExercisesDictionariesLambdaLINQ\05.StudentAcademy\obj\Debug\net6.0\05.StudentAcademy.dll
+D:\Иван\GitHub\Programming-QA-September-2023-SoftUni\ProgrammingAdvancedForQA\05.ExercisesDictionariesLambdaLINQ\05.StudentAcademy\obj\Debug\net6.0\refint\05.StudentAcademy.dll
+D:\Иван\GitHub\Programming-QA-September-2023-SoftUni\ProgrammingAdvancedForQA\05.ExercisesDictionariesLambdaLINQ\05.StudentAcademy\obj\Debug\net6.0\05.StudentAcademy.pdb
+D:\Иван\GitHub\Programming-QA-September-2023-SoftUni\ProgrammingAdvancedForQA\05.ExercisesDictionariesLambdaLINQ\05.StudentAcademy\obj\Debug\net6.0\05.StudentAcademy.genruntimeconfig.cache
+D:\Иван\GitHub\Programming-QA-September-2023-SoftUni\ProgrammingAdvancedForQA\05.ExercisesDictionariesLambdaLINQ\05.StudentAcademy\obj\Debug\net6.0\ref\05.StudentAcademy.dll
