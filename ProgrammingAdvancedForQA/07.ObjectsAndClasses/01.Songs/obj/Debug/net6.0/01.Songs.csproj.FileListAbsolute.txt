@@ -1,0 +1,15 @@
+D:\Иван\GitHub\Programming-QA-September-2023-SoftUni\ProgrammingAdvancedForQA\07.ObjectsAndClasses\01.Songs\obj\Debug\net6.0\01.Songs.GeneratedMSBuildEditorConfig.editorconfig
+D:\Иван\GitHub\Programming-QA-September-2023-SoftUni\ProgrammingAdvancedForQA\07.ObjectsAndClasses\01.Songs\obj\Debug\net6.0\01.Songs.AssemblyInfoInputs.cache
+D:\Иван\GitHub\Programming-QA-September-2023-SoftUni\ProgrammingAdvancedForQA\07.ObjectsAndClasses\01.Songs\obj\Debug\net6.0\01.Songs.AssemblyInfo.cs
+D:\Иван\GitHub\Programming-QA-September-2023-SoftUni\ProgrammingAdvancedForQA\07.ObjectsAndClasses\01.Songs\obj\Debug\net6.0\01.Songs.csproj.CoreCompileInputs.cache
+D:\Иван\GitHub\Programming-QA-September-2023-SoftUni\ProgrammingAdvancedForQA\07.ObjectsAndClasses\01.Songs\obj\Debug\net6.0\01.Songs.sourcelink.json
+D:\Иван\GitHub\Programming-QA-September-2023-SoftUni\ProgrammingAdvancedForQA\07.ObjectsAndClasses\01.Songs\bin\Debug\net6.0\01.Songs.exe
+D:\Иван\GitHub\Programming-QA-September-2023-SoftUni\ProgrammingAdvancedForQA\07.ObjectsAndClasses\01.Songs\bin\Debug\net6.0\01.Songs.deps.json
+D:\Иван\GitHub\Programming-QA-September-2023-SoftUni\ProgrammingAdvancedForQA\07.ObjectsAndClasses\01.Songs\bin\Debug\net6.0\01.Songs.runtimeconfig.json
+D:\Иван\GitHub\Programming-QA-September-2023-SoftUni\ProgrammingAdvancedForQA\07.ObjectsAndClasses\01.Songs\bin\Debug\net6.0\01.Songs.dll
+D:\Иван\GitHub\Programming-QA-September-2023-SoftUni\ProgrammingAdvancedForQA\07.ObjectsAndClasses\01.Songs\bin\Debug\net6.0\01.Songs.pdb
+D:\Иван\GitHub\Programming-QA-September-2023-SoftUni\ProgrammingAdvancedForQA\07.ObjectsAndClasses\01.Songs\obj\Debug\net6.0\01.Songs.dll
+D:\Иван\GitHub\Programming-QA-September-2023-SoftUni\ProgrammingAdvancedForQA\07.ObjectsAndClasses\01.Songs\obj\Debug\net6.0\refint\01.Songs.dll
+D:\Иван\GitHub\Programming-QA-September-2023-SoftUni\ProgrammingAdvancedForQA\07.ObjectsAndClasses\01.Songs\obj\Debug\net6.0\01.Songs.pdb
+D:\Иван\GitHub\Programming-QA-September-2023-SoftUni\ProgrammingAdvancedForQA\07.ObjectsAndClasses\01.Songs\obj\Debug\net6.0\01.Songs.genruntimeconfig.cache
+D:\Иван\GitHub\Programming-QA-September-2023-SoftUni\ProgrammingAdvancedForQA\07.ObjectsAndClasses\01.Songs\obj\Debug\net6.0\ref\01.Songs.dll
