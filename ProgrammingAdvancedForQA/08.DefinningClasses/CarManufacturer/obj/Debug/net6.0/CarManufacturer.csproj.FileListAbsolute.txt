@@ -1,0 +1,15 @@
+D:\Иван\GitHub\Programming-QA-September-2023-SoftUni\ProgrammingAdvancedForQA\08.DefinningClasses\CarManufacturer\bin\Debug\net6.0\CarManufacturer.exe
+D:\Иван\GitHub\Programming-QA-September-2023-SoftUni\ProgrammingAdvancedForQA\08.DefinningClasses\CarManufacturer\bin\Debug\net6.0\CarManufacturer.deps.json
+D:\Иван\GitHub\Programming-QA-September-2023-SoftUni\ProgrammingAdvancedForQA\08.DefinningClasses\CarManufacturer\bin\Debug\net6.0\CarManufacturer.runtimeconfig.json
+D:\Иван\GitHub\Programming-QA-September-2023-SoftUni\ProgrammingAdvancedForQA\08.DefinningClasses\CarManufacturer\bin\Debug\net6.0\CarManufacturer.dll
+D:\Иван\GitHub\Programming-QA-September-2023-SoftUni\ProgrammingAdvancedForQA\08.DefinningClasses\CarManufacturer\bin\Debug\net6.0\CarManufacturer.pdb
+D:\Иван\GitHub\Programming-QA-September-2023-SoftUni\ProgrammingAdvancedForQA\08.DefinningClasses\CarManufacturer\obj\Debug\net6.0\CarManufacturer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Иван\GitHub\Programming-QA-September-2023-SoftUni\ProgrammingAdvancedForQA\08.DefinningClasses\CarManufacturer\obj\Debug\net6.0\CarManufacturer.AssemblyInfoInputs.cache
+D:\Иван\GitHub\Programming-QA-September-2023-SoftUni\ProgrammingAdvancedForQA\08.DefinningClasses\CarManufacturer\obj\Debug\net6.0\CarManufacturer.AssemblyInfo.cs
+D:\Иван\GitHub\Programming-QA-September-2023-SoftUni\ProgrammingAdvancedForQA\08.DefinningClasses\CarManufacturer\obj\Debug\net6.0\CarManufacturer.csproj.CoreCompileInputs.cache
+D:\Иван\GitHub\Programming-QA-September-2023-SoftUni\ProgrammingAdvancedForQA\08.DefinningClasses\CarManufacturer\obj\Debug\net6.0\CarManufacturer.sourcelink.json
+D:\Иван\GitHub\Programming-QA-September-2023-SoftUni\ProgrammingAdvancedForQA\08.DefinningClasses\CarManufacturer\obj\Debug\net6.0\CarManufacturer.dll
+D:\Иван\GitHub\Programming-QA-September-2023-SoftUni\ProgrammingAdvancedForQA\08.DefinningClasses\CarManufacturer\obj\Debug\net6.0\refint\CarManufacturer.dll
+D:\Иван\GitHub\Programming-QA-September-2023-SoftUni\ProgrammingAdvancedForQA\08.DefinningClasses\CarManufacturer\obj\Debug\net6.0\CarManufacturer.pdb
+D:\Иван\GitHub\Programming-QA-September-2023-SoftUni\ProgrammingAdvancedForQA\08.DefinningClasses\CarManufacturer\obj\Debug\net6.0\CarManufacturer.genruntimeconfig.cache
+D:\Иван\GitHub\Programming-QA-September-2023-SoftUni\ProgrammingAdvancedForQA\08.DefinningClasses\CarManufacturer\obj\Debug\net6.0\ref\CarManufacturer.dll
