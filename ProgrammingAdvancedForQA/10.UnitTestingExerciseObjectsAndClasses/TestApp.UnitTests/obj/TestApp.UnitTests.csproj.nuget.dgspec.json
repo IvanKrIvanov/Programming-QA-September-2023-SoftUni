@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ivano\\Desktop\\10-Resources-Unit-Testing-Exercise-Classes\\TestApp.UnitTests\\TestApp.UnitTests.csproj": {}
+    "D:\\Иван\\GitHub\\Programming-QA-September-2023-SoftUni\\ProgrammingAdvancedForQA\\10.UnitTestingExerciseObjectsAndClasses\\TestApp.UnitTests\\TestApp.UnitTests.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ivano\\Desktop\\10-Resources-Unit-Testing-Exercise-Classes\\TestApp.UnitTests\\TestApp.UnitTests.csproj": {
+    "D:\\Иван\\GitHub\\Programming-QA-September-2023-SoftUni\\ProgrammingAdvancedForQA\\10.UnitTestingExerciseObjectsAndClasses\\TestApp.UnitTests\\TestApp.UnitTests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ivano\\Desktop\\10-Resources-Unit-Testing-Exercise-Classes\\TestApp.UnitTests\\TestApp.UnitTests.csproj",
+        "projectUniqueName": "D:\\Иван\\GitHub\\Programming-QA-September-2023-SoftUni\\ProgrammingAdvancedForQA\\10.UnitTestingExerciseObjectsAndClasses\\TestApp.UnitTests\\TestApp.UnitTests.csproj",
         "projectName": "TestApp.UnitTests",
-        "projectPath": "C:\\Users\\ivano\\Desktop\\10-Resources-Unit-Testing-Exercise-Classes\\TestApp.UnitTests\\TestApp.UnitTests.csproj",
+        "projectPath": "D:\\Иван\\GitHub\\Programming-QA-September-2023-SoftUni\\ProgrammingAdvancedForQA\\10.UnitTestingExerciseObjectsAndClasses\\TestApp.UnitTests\\TestApp.UnitTests.csproj",
         "packagesPath": "C:\\Users\\ivano\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ivano\\Desktop\\10-Resources-Unit-Testing-Exercise-Classes\\TestApp.UnitTests\\obj\\",
+        "outputPath": "D:\\Иван\\GitHub\\Programming-QA-September-2023-SoftUni\\ProgrammingAdvancedForQA\\10.UnitTestingExerciseObjectsAndClasses\\TestApp.UnitTests\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ivano\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,8 +28,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\ivano\\Desktop\\10-Resources-Unit-Testing-Exercise-Classes\\TestApp\\TestApp.csproj": {
-                "projectPath": "C:\\Users\\ivano\\Desktop\\10-Resources-Unit-Testing-Exercise-Classes\\TestApp\\TestApp.csproj"
+              "D:\\Иван\\GitHub\\Programming-QA-September-2023-SoftUni\\ProgrammingAdvancedForQA\\10.UnitTestingExerciseObjectsAndClasses\\TestApp\\TestApp.csproj": {
+                "projectPath": "D:\\Иван\\GitHub\\Programming-QA-September-2023-SoftUni\\ProgrammingAdvancedForQA\\10.UnitTestingExerciseObjectsAndClasses\\TestApp\\TestApp.csproj"
               }
             }
           }
@@ -85,14 +85,14 @@
         }
       }
     },
-    "C:\\Users\\ivano\\Desktop\\10-Resources-Unit-Testing-Exercise-Classes\\TestApp\\TestApp.csproj": {
+    "D:\\Иван\\GitHub\\Programming-QA-September-2023-SoftUni\\ProgrammingAdvancedForQA\\10.UnitTestingExerciseObjectsAndClasses\\TestApp\\TestApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ivano\\Desktop\\10-Resources-Unit-Testing-Exercise-Classes\\TestApp\\TestApp.csproj",
+        "projectUniqueName": "D:\\Иван\\GitHub\\Programming-QA-September-2023-SoftUni\\ProgrammingAdvancedForQA\\10.UnitTestingExerciseObjectsAndClasses\\TestApp\\TestApp.csproj",
         "projectName": "TestApp",
-        "projectPath": "C:\\Users\\ivano\\Desktop\\10-Resources-Unit-Testing-Exercise-Classes\\TestApp\\TestApp.csproj",
+        "projectPath": "D:\\Иван\\GitHub\\Programming-QA-September-2023-SoftUni\\ProgrammingAdvancedForQA\\10.UnitTestingExerciseObjectsAndClasses\\TestApp\\TestApp.csproj",
         "packagesPath": "C:\\Users\\ivano\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ivano\\Desktop\\10-Resources-Unit-Testing-Exercise-Classes\\TestApp\\obj\\",
+        "outputPath": "D:\\Иван\\GitHub\\Programming-QA-September-2023-SoftUni\\ProgrammingAdvancedForQA\\10.UnitTestingExerciseObjectsAndClasses\\TestApp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ivano\\AppData\\Roaming\\NuGet\\NuGet.Config",

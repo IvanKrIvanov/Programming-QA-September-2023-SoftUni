@@ -103,12 +103,18 @@ public class PersonTests
     public void Test_GetByAgeAscending_ReturnEmptyString_WhenGivenNoData()
     {
         // Arrange
-        List<Person> peopleData = new List<Person>();
+        var peopleList = new List<Person>
+    {
+        new Person { Name = "Alice", Id = "A001", Age = 25 },
+        new Person { Name = "Bob", Id = "B002", Age = 30 },
+        new Person { Name = "Charlie", Id = "C003", Age = 20 }
+    };
 
         // Act
-        string actual = this._person.GetByAgeAscending(peopleData);
+        string result = this._person.GetByAgeAscending(peopleList);
 
         // Assert
-        Assert.AreEqual(string.Empty, actual);
+        string expectedResult = $"Charlie with ID: C003 is 20 years old.{Environment.NewLine}Alice with ID: A001 is 25 years old.{Environment.NewLine}Bob with ID: B002 is 30 years old.";
+        Assert.That(result, Is.EqualTo(expectedResult));
     }
 }

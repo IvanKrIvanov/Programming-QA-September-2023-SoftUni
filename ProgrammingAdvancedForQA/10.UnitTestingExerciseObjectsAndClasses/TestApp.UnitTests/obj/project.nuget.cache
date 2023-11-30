@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Sj9q6YI1/QNAlC0fABbUNFOopINiZzox87CXz4FoEW2A5x2CJEAyoTv5NEMih0eEGCjtzIPNud8DGvMsRI1meg==",
+  "dgSpecHash": "+sYgQh0bom5fM5MHfczHN9v6B5eCfIIvFOYN+r5dHZaKX1XNSDLdY02i5G07GPXoQmcyWj/ae3F0yXZxi2EwGA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ivano\\Desktop\\10-Resources-Unit-Testing-Exercise-Classes\\TestApp.UnitTests\\TestApp.UnitTests.csproj",
+  "projectFilePath": "D:\\Иван\\GitHub\\Programming-QA-September-2023-SoftUni\\ProgrammingAdvancedForQA\\10.UnitTestingExerciseObjectsAndClasses\\TestApp.UnitTests\\TestApp.UnitTests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ivano\\.nuget\\packages\\coverlet.collector\\3.2.0\\coverlet.collector.3.2.0.nupkg.sha512",
     "C:\\Users\\ivano\\.nuget\\packages\\microsoft.codecoverage\\17.5.0\\microsoft.codecoverage.17.5.0.nupkg.sha512",
