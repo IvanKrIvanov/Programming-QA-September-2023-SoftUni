@@ -1,58 +1,64 @@
-﻿class Program
+﻿List<Trainer> trainers = new List<Trainer>();
+
+string input = Console.ReadLine();
+while (input != "Tournament")
 {
-    static void Main()
+    string[] tokens = input.Split();
+    string trainerName = tokens[0];
+    string pokemonName = tokens[1];
+    string pokemonElement = tokens[2];
+    int pokemonHealth = int.Parse(tokens[3]);
+
+    Pokemon pokemon = new Pokemon(pokemonName, pokemonElement, pokemonHealth);
+
+
+    Trainer trainer = trainers.FirstOrDefault(t => t.Name == trainerName);
+
+    if (trainer == null)
     {
-        Dictionary<string, Trainer> trainers = new Dictionary<string, Trainer>();
+        trainer = new Trainer(trainerName);
+        trainers.Add(trainer);
+    }
 
-        while (true)
+    trainer.Pokemons.Add(pokemon);
+
+    input = Console.ReadLine();
+}
+
+string command = Console.ReadLine();
+while (command != "End")
+{
+    ProcessTournamentCommand(trainers, command);
+    command = Console.ReadLine();
+}
+
+PrintTrainers(trainers);
+
+
+static void ProcessTournamentCommand(List<Trainer> trainers, string element)
+{
+    foreach (Trainer trainer in trainers)
+    {
+        if (trainer.Pokemons.Any(p => p.Element == element))
         {
-            string command = Console.ReadLine().Trim();
-            if (command == "Tournament")
-                break;
-
-            string[] tokens = command.Split();
-            string trainerName = tokens[0];
-            string pokemonName = tokens[1];
-            string pokemonElement = tokens[2];
-            int pokemonHealth = int.Parse(tokens[3]);
-
-            if (!trainers.ContainsKey(trainerName))
-                trainers[trainerName] = new Trainer(trainerName);
-
-            Pokemon pokemon = new Pokemon(pokemonName, pokemonElement, pokemonHealth);
-            trainers[trainerName].AddPokemon(pokemon);
+            trainer.Badges++;
         }
-
-        while (true)
+        else
         {
-            string command = Console.ReadLine().Trim();
-            if (command == "End")
-                break;
-
-            foreach (var trainer in trainers.Values)
+            foreach (Pokemon pokemon in trainer.Pokemons)
             {
-                bool hasElement = trainer.Pokemon.Any(p => p.Element == command);
-                if (hasElement)
-                {
-                    trainer.Badges++;
-                }
-                else
-                {
-                    foreach (var pokemon in trainer.Pokemon.ToList())
-                    {
-                        pokemon.Health -= 10;
-                        if (pokemon.Health <= 0)
-                            trainer.Pokemon.Remove(pokemon);
-                    }
-                }
+                pokemon.Health -= 10;
             }
-        }
 
-        var sortedTrainers = trainers.Values.OrderByDescending(t => t.Badges).ThenBy(t => t.Name);
-
-        foreach (var trainer in sortedTrainers)
-        {
-            Console.WriteLine(trainer);
+            trainer.Pokemons.RemoveAll(p => p.Health <= 0);
         }
+    }
+}
+
+static void PrintTrainers(List<Trainer> trainers)
+{
+    foreach (Trainer trainer in trainers.OrderByDescending(t => t.Badges))
+    {
+        Console.WriteLine($"{trainer.Name} {trainer.Badges} {trainer.Pokemons.Count}");
     }
 }
