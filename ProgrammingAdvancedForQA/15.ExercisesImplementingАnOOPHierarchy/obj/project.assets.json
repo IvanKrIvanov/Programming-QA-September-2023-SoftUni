@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ivano\\Desktop\\15-Resources-Implementing-OOP-Hierarchy (1)\\ExerciseOopHierarchy.csproj",
+      "projectUniqueName": "D:\\Иван\\GitHub\\Programming-QA-September-2023-SoftUni\\ProgrammingAdvancedForQA\\15.ExercisesImplementingАnOOPHierarchy\\ExerciseOopHierarchy.csproj",
       "projectName": "ExerciseOopHierarchy",
-      "projectPath": "C:\\Users\\ivano\\Desktop\\15-Resources-Implementing-OOP-Hierarchy (1)\\ExerciseOopHierarchy.csproj",
+      "projectPath": "D:\\Иван\\GitHub\\Programming-QA-September-2023-SoftUni\\ProgrammingAdvancedForQA\\15.ExercisesImplementingАnOOPHierarchy\\ExerciseOopHierarchy.csproj",
       "packagesPath": "C:\\Users\\ivano\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ivano\\Desktop\\15-Resources-Implementing-OOP-Hierarchy (1)\\obj\\",
+      "outputPath": "D:\\Иван\\GitHub\\Programming-QA-September-2023-SoftUni\\ProgrammingAdvancedForQA\\15.ExercisesImplementingАnOOPHierarchy\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ivano\\AppData\\Roaming\\NuGet\\NuGet.Config",
